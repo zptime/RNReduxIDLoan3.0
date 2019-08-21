@@ -1,0 +1,58 @@
+{
+    "Sertifikasi": [
+        {
+            "question": "Mengapa foto kartu ID tidak sesuai?",
+            "answer": "Foto kartu ID harus sama dengan nama asli dari nama asli kartu ID, Anda dapat melihat informasi spesifik, periksa apakah ada ketidakpatuhan berikut: \n1. Kartu ID terbalik, kartu ID sementara atau kedaluwarsa, kartu ID rusak, kartu ID rusak, penembakan tidak Hapus \n2. Dokumen lain selain kartu ID (SIM, salinan kartu ID, kartu bank, kartu kredit) \n3. Remake gambar yang disimpan di komputer \n4. Kartu ID tidak lengkap (informasi tidak lengkap, hanya sebagian, empat Sudut tidak difoto \n5. Titik reflektif pada gambar kartu ID hanya menutupi informasi atau wajah."
+        },
+        {
+            "question": "Mengapa beberapa produk menyarankan kualifikasi yang tidak memadai?",
+            "answer": "Pengguna yang terhormat, kualifikasi kredit didasarkan pada riwayat kredit masa lalu Anda dan informasi yang Anda isi. Kurangnya kualifikasi menunjukkan bahwa Anda tidak memenuhi persyaratan pinjaman produk untuk saat ini. Disarankan agar Anda mempertahankan kredit yang baik. Platform tindak lanjut akan didasarkan pada situasi kredit Anda. Evaluasi bulanan untuk memperbarui kualifikasi kredit."
+        },
+        {
+            "question": "Bisakah informasi kartu ID yang diautentikasi dimodifikasi?",
+            "answer": "Informasi kartu ID yang telah berhasil diautentikasi tidak dapat dimodifikasi, dan kartu ID hanya dapat mengautentikasi satu akun."
+        },
+        {
+            "question": "Tidak dapat menambahkan kontak darurat",
+            "answer": "Tidak dapat menambahkan kontak darurat, yang mungkin disebabkan oleh alasan berikut: \n1. Mohon otorisasi aplikasi kami untuk mengakses buku alamat ponsel Anda. Harap aktifkan akses di \"Pengaturan\" atau perangkat lunak manajemen seluler dan coba lagi. \n2, simbol khusus yang disebabkan, harap hapus nama kontak atau karakter khusus seperti emoji di nama telepon Anda dan coba lagi. \n3. Setelah mendapatkan buku alamat, jika Anda tidak melompat kembali ke halaman kontak darurat, Anda mungkin belum memilih nomor telepon kontak, harap operasikan kembali. Jika tidak, silakan hubungi umpan balik layanan pelanggan"
+        }
+    ],
+    "Pinjaman": [
+        {
+            "question": "Cara mengajukan pinjaman",
+            "answer": "Langkah pertama adalah memilih produk pinjaman yang ingin Anda ajukan dan klik untuk memasukkan detail produk. Jika Anda tidak melakukan otentikasi nama asli, Anda perlu melakukan otentikasi nama asli. Langkah kedua adalah memilih jumlah pinjaman dan jangka waktu pinjaman. Langkah ketiga adalah meningkatkan persyaratan sertifikasi yang diperlukan untuk produk pinjaman. Langkah keempat adalah mengikat kartu bank (hanya kartu debit yang dapat diikat) untuk memastikan bahwa pinjaman ditinjau dan disetujui.\nTip: Beberapa produk mungkin perlu masuk ke APP resmi atau organisasi unduhan. Harap ikuti petunjuknya hingga aplikasi berhasil dikirim. Jangan kembali atau berhenti."
+        },
+        {
+            "question": "Mengapa permohonan pinjaman tidak lulus ulasan?",
+            "answer": "Menurut laporan kredit Anda sebelumnya dan situasi pribadi Anda saat ini, organisasi akan memutuskan apakah akan lulus ulasan. Jika nilainya lebih rendah dari jumlah pinjaman minimum, perusahaan akan menolak untuk memberikan pinjaman. Disarankan agar Anda melengkapi informasi pribadi Anda sesegera mungkin dan mencoba mengajukan lebih banyak organisasi.\nPengingat: Situasi ini normal, karena faktor pengendalian risiko yang dipertimbangkan oleh masing-masing lembaga berbeda dari fokus evaluasi, yang mengarah pada kegagalan tinjauan."
+        },
+        {
+            "question": "Mengapa jumlah yang diterapkan tidak konsisten dengan jumlah yang disetujui?",
+            "answer": "Peminjam akan melakukan evaluasi komprehensif berdasarkan informasi pinjaman pribadi Anda untuk mendapatkan jumlah yang disetujui, yang pada akhirnya akan didasarkan pada jumlah yang diberikan oleh lembaga peminjam.\nTips: Jika jumlahnya tidak memenuhi kebutuhan dana Anda, disarankan untuk mengajukan beberapa produk lainnya."
+        }
+    ],
+    "Pelunasan": [
+        {
+            "question": "Bagaimana cara membayar setelah meminjam?",
+            "answer": "Pada langkah pertama, klik pada Saya, semua pesanan di atas akan menampilkan jumlah pesanan yang harus dibayar, klik untuk melihat pesanan yang akan dibayar. Langkah kedua adalah membuka detail pesanan, memeriksa tanggal dan jumlah pembayaran terakhir, dan klik Pembayaran untuk melakukan pembayaran.\nTip: Tergantung pada lembaga peminjam, metode pembayaran mungkin berbeda. Anda disarankan untuk memeriksa halaman pembayaran setiap bulan untuk konfirmasi."
+        },
+        {
+            "question": "Instruksi pembayaran",
+            "answer": "Mendukung CIMB Niaga Virtual Account, Virtual Account Maybank, Virtual Account PERMATA, Retail (Alfamart, Pos Indonesia, Dan-dan, Lawson, dan Pegadaian) beberapa metode pembayaran."
+        },
+        {
+            "question": "Sudah dilunasi, tetapi APP tidak menunjukkan pelunasan",
+            "answer": "Sistem akan diperbarui dalam 1-3 hari kerja setelah pembayaran Anda berhasil. Harap bersabar. Dengan pembayaran aktif aplikasi, sistem akan memperbarui hasil pembayaran pada hari berikutnya. Selama periode pembaruan status, sistem akan menghitung bunga untuk Anda sesuai dengan tanggal transaksi aktual, dan tidak akan menghitung bunga."
+        }
+    ],
+    "Lainnya": [
+        {
+            "question": "Ponsel tidak menerima kode verifikasi?",
+            "answer": "Pertama periksa apakah ponsel memiliki perangkat lunak fungsi untuk memblokir atau memblokir SMS, dan Anda perlu mematikan fungsi yang sama. Kode verifikasi dikirim sebagai pesan teks untuk memastikan bahwa sinyal ponsel saat ini dalam kondisi baik."
+        },
+        {
+            "question": "Cara mengikat kartu bank",
+            "answer": "Kartu bank yang memerlukan kartu ID Anda, pastikan akun kartu bank dan input bank sudah benar. Saat ini hanya kartu debit mengikat yang didukung, dan kartu kredit mengikat tidak didukung."
+        }
+    ]
+}

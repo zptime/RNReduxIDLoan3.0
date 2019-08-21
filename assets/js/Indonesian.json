@@ -1,0 +1,1651 @@
+[{
+	"name": "Bali",
+	"city": [{
+		"area": ["Abiansemal", "Kuta", "Kuta Selatan", "Kuta Utara", "Mengwi", "Petang"],
+		"name": "Kab. Badung"
+	}, {
+		"area": ["Kintamani", "Susut", "Tembuku"],
+		"name": "Kab. Bangli"
+	}, {
+		"area": ["Buleleng", "Busung Biu", "Gerokgak", "Kubutambahan", "Sawan", "Seririt", "Singaraja", "Sukasada", "Tejakula"],
+		"name": "Kab. Buleleng"
+	}, {
+		"area": ["Gianyar", "Payangan", "Sukawati", "Tampaksiring", "Tegalallang", "Ubud"],
+		"name": "Kab. Gianyar"
+	}, {
+		"area": ["Jembrana", "Melaya", "Mendoyo", "Negara", "Pekutatan"],
+		"name": "Kab. Jembrana"
+	}, {
+		"area": ["Amlapura", "Bebandem", "Karangasem", "Kubu", "Manggis", "Rendang", "Selat", "Sidemen"],
+		"name": "Kab. Karangasem"
+	}, {
+		"area": ["Dawan", "Klungkung", "Nusapenida"],
+		"name": "Kab. Klungkung"
+	}, {
+		"area": ["Kediri", "Kerambitan", "Marga", "Penebel", "Pupuan", "Salamadeg Timur", "Selemadeg", "Selemadeg Barat", "Tabanan"],
+		"name": "Kab. Tabanan"
+	}, {
+		"area": ["Denpasar Barat", "Denpasar Selatan", "Denpasar Timur", "Denpasar Utara"],
+		"name": "Kota Denpasar"
+	}]
+}, {
+	"name": "Banten",
+	"city": [{
+		"area": ["Banjarsari", "Bayah", "Bojongmanik", "Cibadak", "Cibeber", "Cigemblong", "Cihara", "Cijaku", "Cikulur", "Cileles", "Cilograng", "Cimarga", "Cipanas", "Cirinten", "Curugbitung", "Gunungkencana", "Kalanganyar", "Lebak Gedong", "Leuwidamar", "Maja", "Malingping", "Muncang", "Panggarangan", "Rangkasbitung", "Sajira", "Sobang", "Wanasalam", "Warunggunung"],
+		"name": "Kab. Lebak"
+	}, {
+		"area": ["Banjar", "Bojong", "Cadasari", "Carita", "Cibaliung", "Cibitung", "Cigeulis", "Cikedal", "Cikeusik", "Cimanggu", "Cimanuk", "Cipeucang", "Cisata", "Jiput", "Kaduhejo", "Karangtanjung", "Koroncong", "Labuan", "Majasari", "Mandalawangi", "Mekarjaya", "Menes", "Munjul", "Pagelaran", "Pandeglang", "Panimbang", "Patia", "Picung", "Pulosari", "Saketi", "Sindangresmi", "Sobang", "Sukaresmi", "Sumur"],
+		"name": "Kab. Pandeglang"
+	}, {
+		"area": ["Bandung", "Baros", "Binuang", "Bojonegara", "Carenang", "Cikande", "Cikeusal", "Cinangka", "Ciomas", "Ciruas", "Gunungsari", "Jawilan", "Kibin", "Kopo", "Kragilan", "Kramatwatu", "Lebak Wangi", "Mancak", "Pabuaran", "Padarincang", "Pamarayan", "Petir", "Pontang", "Puloampel", "Tanara", "Tirtayasa", "Tunjung Teja", "Waringinkurung"],
+		"name": "Kab. Serang"
+	}, {
+		"area": ["Cikupa", "Cisauk", "Cisoka", "Curug", "Gunung Kaler", "Jambe", "Jayanti", "Kelapa Dua", "Kemiri", "Kosambi", "Kresek", "Kronjo", "Legok", "Mauk", "Mekar Baru", "Pagedangan", "Pakuhaji", "Panongan", "Pasarkemis", "Rajeg", "Sepatan", "Sepatan Timur", "Sindang Jaya", "Solear", "Sukadiri", "Sukamulya", "Teluknaga", "Tigaraksa"],
+		"name": "Kab. Tangerang"
+	}, {
+		"area": ["Cilegon", "Citangkil", "Ciwandan", "Gerogol", "Jombang", "Merak", "Pulo Merak", "Purwakarta"],
+		"name": "Kota Cilegon"
+	}, {
+		"area": ["Curug", "Kasemen", "Serang", "Taktakan", "Walantaka"],
+		"name": "Kota Serang"
+	}, {
+		"area": ["Benda", "Cibodas", "Ciledug", "Cipondoh", "Jatiuwung", "Karangtengah", "Karawaci", "Larangan", "Neglasari", "Periuk", "Pinang", "Tangerang"],
+		"name": "Kota Tangerang"
+	}, {
+		"area": ["Ciputat Timur", "Pamulang", "Pondok Aren", "Serpong", "Serpong Utara", "Setu"],
+		"name": "Kota Tangerang Selatan"
+	}]
+}, {
+	"name": "Bengkulu",
+	"city": [{
+		"area": ["Air Nipis", "Bunga Mas", "Kedurang", "Kedurang Ilir", "Kota Manna", "Manna", "Pasar Manna", "Pino", "Pinoraya", "Seginim", "Ulu Manna"],
+		"name": "Kab. Bengkulu Selatan"
+	}, {
+		"area": ["Karang Tinggi", "Merigi Kelindang", "Merigi Sakti", "Pagar Jati", "Pematang Tiga", "Pondok Kelapa", "Pondok Kubang", "Taba Penanjung", "Talang Empat"],
+		"name": "Kab. Bengkulu Tengah"
+	}, {
+		"area": ["Air Napal", "Air Padang", "Arma Jaya", "Batik Nau", "Enggano", "Giri Mulia", "Hulu Palik", "Kerkap", "Ketahun", "Kota Arga Makmur", "Lais", "Marga Sakti Sebelat", "Napal Putih", "Padang Jaya", "Pinang Raya", "Putri Hijau", "Tanjung Agung Palik", "Ulok Kupai"],
+		"name": "Kab. Bengkulu Utara"
+	}, {
+		"area": ["Kaur Selatan", "Kaur Tengah", "Kaur Utara", "Kelam Tengah", "Kinal", "Luas", "Lungkang Kule", "Maje", "Muara Sahung", "Nasal", "Padang Guci Hilir", "Padang Guci Hulu", "Semidang Gumai", "Tanjung Kemuning", "Tetap"],
+		"name": "Kab. Kaur"
+	}, {
+		"area": ["Kebawetan", "Kepahiang", "Merigi", "Muara Kemumu", "Seberang Musi", "Tebat Karai", "Ujan Mas"],
+		"name": "Kab. Kepahiang"
+	}, {
+		"area": ["Bingin Kuning", "Lebong", "Lebong Atas", "Lebong Sakti", "Lebong Selatan", "Lebong Tengah", "Lebong Utara", "Pelabai", "Pinang Belapis", "Rimbo Pengadang", "Topos", "Uram Jaya"],
+		"name": "Kab. Lebong"
+	}, {
+		"area": ["Air Majunto", "Air Rami", "Ipuh", "Kota Mukomuko", "Lubuk Pinang", "Malin Deman", "Muko", "Penarik", "Pondok Suguh", "Selagan Raya", "Sungai Rumbai", "Teramang Jaya", "Teras Terunjam", "V Koto", "XIV Koto"],
+		"name": "Kab. Muko Muko"
+	}, {
+		"area": ["Bermani Ulu Raya", "Binduriang", "Curup", "Curup Selatan", "Curup Tengah", "Curup Timur", "Curup Utara", "Kota Padang", "Padang Ulak Tanding", "Selupu Rejang", "Sindang Beliti Ilir", "Sindang Beliti Ulu", "Sindang Dataran", "Sindang Kelingi"],
+		"name": "Kab. Rejang Lebong"
+	}, {
+		"area": ["Ilir Talo", "Lubuk Sandi", "Seluma", "Seluma Barat", "Seluma Selatan", "Seluma Timur", "Seluma Utara", "Semidang Alas", "Semidang Alas Maras", "Sukaraja", "Tais", "Talo", "Talo Kecil", "Ulu Talo"],
+		"name": "Kab. Seluma"
+	}, {
+		"area": ["Gading Cempaka", "Kampung Melayu", "Muara Bangkahulu", "Ratu Agung", "Ratu Samban", "Selebar", "Singaran Pati", "Sungai Serut", "Teluk Segara"],
+		"name": "Kota Bengkulu"
+	}]
+}, {
+	"name": "D.I. Aceh",
+	"city": [{
+		"area": ["Arongan Lambalek", "Bubon", "Johan Pahlawan", "Kaway XVI", "Meulaboh", "Meureubo", "Pante Ceureumen", "Panton Reu", "Samatiga", "Sungai Mas", "Woyla", "Woyla Barat", "Woyla Timur"],
+		"name": "Kab. Aceh Barat"
+	}, {
+		"area": ["Blangpidie", "Jeumpa", "kuala Batee", "Lembah Sabil", "Manggeng", "Setia", "Susoh", "Tangan Tangan"],
+		"name": "Kab. Aceh Barat Daya"
+	}, {
+		"area": ["Blang Bintang", "Darul Imarah", "Darul Kamal", "Darussalam", "Indrapuri", "Ingin Jaya", "Kota Jantho", "Krueng Barona Jaya", "Kuta Baro", "Kuta Cot Glie", "Kuta Malaka", "Lembah Seulawah", "Leupung", "Lho'Nga", "Lhoong", "Mesjid Raya", "Montasik", "Peukan Bada", "Pulo Aceh", "Seulimeum", "Simpang tiga", "Suka Makmur"],
+		"name": "Kab. Aceh Besar"
+	}, {
+		"area": ["Indra Jaya", "Jaya", "Krueng Sabee", "Panga", "Pasie Raya", "Sampo Niet", "Setia Bakti", "Teunom"],
+		"name": "Kab. Aceh Jaya"
+	}, {
+		"area": ["Bakongan Timur", "Kluet Selatan", "Kluet Tengah", "Kluet Timur", "Kluet Utara", "Kota Bahagia", "Labuhan Haji", "Labuhan Haji Barat", "Labuhan Haji Timur", "Meukek", "Pasie raja", "Sama Dua", "Sawang", "Tapaktuan", "Trumon", "Trumon Tengah", "Trumon Timur"],
+		"name": "Kab. Aceh Selatan"
+	}, {
+		"area": ["Gunung Meriah", "Kota Baharu", "Kuala Baru", "Pulau Banyak", "Pulau Banyak Barat", "Simpang Kanan", "Singkil", "Singkil Utara", "Singkohor", "Suro Baru", "Suro Makmur"],
+		"name": "Kab. Aceh Singkil"
+	}, {
+		"area": ["Bandar Pusaka", "Bendahara", "Karang Baru", "Kejuruan Muda", "Kota Kualasinpang", "Manyak Payed", "Rantau", "Sekerak", "Seuruway", "Tamiang Hulu", "Tenggulun"],
+		"name": "Kab. Aceh Tamiang"
+	}, {
+		"area": ["Bebesen", "Bies", "Bintang", "Celala", "Jagong Jeget", "Kebayakan", "Ketol", "Kute Panang", "LautTawar", "Linge", "Pegasing", "Rusip Antara", "Silih Nara", "Takengon"],
+		"name": "Kab. Aceh Tengah"
+	}, {
+		"area": ["Babul Rahmah", "Babussalam", "Badar", "Bambel", "Bukit Tusam", "Darul Hasanah", "Deleng Pokhisen", "Ketambe", "Kutacane", "Lawe Alas", "Lawe Bulan", "Lawe Sigala-gala", "Lawe Sumur", "Leuser", "Semadam", "Tanoh Alas"],
+		"name": "Kab. Aceh Tenggara"
+	}, {
+		"area": ["Birem Bayeun", "Darul Aman", "Darul Falah", "Darul Iksan", "Idi Rayeuk", "Idi Timur", "Idi Tuning", "Indra Makmur", "Julok", "Madat", "Nurussalam", "Pante Bidari", "Peudawa", "Peunaron", "Peureulak", "Peureulak Barat", "Peureulak Timur", "Rantau Peureulak", "Rantau Selamat", "Serbajadi", "Simpang Jernih", "Simpang Ulim", "Sungai Raya"],
+		"name": "Kab. Aceh Timur"
+	}, {
+		"area": ["Baktiya", "Banda Baro", "Cot Girek", "Dewantara", "Geuredong Pase", "Kuta Makmur", "Langkahan", "Lapang", "Lhoksukon", "Matangkuli", "Meurah Mulia", "Muara Batu", "Nibong", "Nisam", "Nisam Antara", "Paya Bakong", "Pirak Timur", "Samudera", "Sawang", "Seunuddon", "Simpang Keuramat", "Syamtalira Aron", "Syamtalira Bayu", "Tanah Luas", "Tanah Pasir", "T. Jambo Aye"],
+		"name": "Kab. Aceh Utara"
+	}, {
+		"area": ["Bener Kelipah", "Bukit", "Gajah Putih", "Mesidah", "Permata", "Pintu Rime Gayo", "Simpang Tiga Redelong", "Syiah Kuala", "Syiah Utama", "Timang Gajah", "Wih Pesam"],
+		"name": "Kab. Bener Meriah"
+	}, {
+		"area": ["Ganda Pura", "Jangka", "Jeumpa", "Jeunieb", "Juli", "Kota Juang", "Kuala", "Kuta Blang", "Makmur", "Pandrah", "Peudada", "Peulimbang", "Peusangan", "Peusangan Selatan", "Peusangan Siblah Krueng", "Samalanga", "Simpang Mamplam"],
+		"name": "Kab. Bireuen"
+	}, {
+		"area": ["Blang Kejeren", "Blang Pegayon", "Dabung Gelang", "Kuta Panjang", "Pantan Jaya", "Pining", "Putri Betung", "Rikit Gaib", "Terangon", "Teripe Jaya"],
+		"name": "Kab. Gayo Lues"
+	}, {
+		"area": ["Beutong Ateuh Banggalang", "Darul Makmur", "Kuala", "Kuala Pesisir", "Seunagan", "Seunagan Timur", "Suka Makmue", "Tadu Raya", "Tripa Makmur"],
+		"name": "Kab. Nagan Raya"
+	}, {
+		"area": ["Delima", "Geumpang", "Gleumpang Baro", "Glumpang Tiga", "Grong-Grong", "Indrajaya", "Kembang Tanjung", "Keumala", "Mane", "Mila", "Muara Tiga", "Mutiara", "Mutiara Timur", "Padang Tiji", "Peukan Baro", "Pidie", "Sakti", "Sigli", "Simpang Tiga", "Tangse", "Tiro/Truseb", "Titeue"],
+		"name": "Kab. Pidie"
+	}, {
+		"area": ["Bandar Dua", "Jangka Buya", "Meurah Dua", "Meureudu", "Panteraja", "Trienggading", "Ulim"],
+		"name": "Kab. Pidie Jaya"
+	}, {
+		"area": ["Salang", "Simeulue Cut", "Simeulue Tengah", "Simeulue Timur", "Simuelue Barat", "Sinabang", "Teluk Dalam", "Teupah Barat", "Teupah Selatan", "Teupah Tengah"],
+		"name": "Kab. Simeulue"
+	}, {
+		"area": ["Banda Aceh", "Banda Raya", "Jaya Baru", "Kuta Alam", "Kuta Raja", "Lueng Bata", "Meuraxa", "Syiah Kuala", "Ulee Kareng"],
+		"name": "Kota Banda Aceh"
+	}, {
+		"area": ["Langsa Barat", "Langsa Baro", "Langsa Kota", "Langsa Lama", "Langsa Teungoh", "Langsa Timur"],
+		"name": "Kota Langsa"
+	}, {
+		"area": ["Blang Mangat", "Lhokseumawe", "Muara Dua", "Muara Satu"],
+		"name": "Kota Lhokseumawe"
+	}, {
+		"area": ["Sukajaya", "Sukakarya"],
+		"name": "Kota Sabang"
+	}, {
+		"area": ["Penanggalan", "Rundeng", "Simpang Kiri", "Subulussalam", "Sultan Daulat"],
+		"name": "Kota Subulussalam"
+	}]
+}, {
+	"name": "D.I. Yogyakarta",
+	"city": [{
+		"area": ["Bambanglipuro", "Banguntapan", "Bantul", "Dlingo", "Imogiri", "Jetis", "Kasihan", "Kretek", "Pajangan", "Pandak", "Piyungan", "Pleret", "Pundong", "Sanden", "Sedayu", "Sewon", "Srandakan"],
+		"name": "Kab. Bantul"
+	}, {
+		"area": ["Girisubo", "Karangmojo", "Ngawen", "Nglipar", "Paliyan", "Panggang", "Patuk", "Playen", "Ponjong", "Purwosari", "Rongkop", "Saptosari", "Semanu", "Semin", "Tanjungsari", "Tepus", "Wonosari"],
+		"name": "Kab. Gunungkidul"
+	}, {
+		"area": ["Girimulyo", "Kalibawang", "Kokap", "Lendah", "Nanggulan", "Panjatan", "Pengasih", "Samigaluh", "Sentolo", "Temon", "Wates"],
+		"name": "Kab. Kulon Progo"
+	}, {
+		"area": ["Cangkringan", "Depok", "Gamping", "Godean", "Kalasan", "Minggir", "Mlati", "Moyudan", "Ngaglik", "Ngemplak", "Pakem", "Prambanan", "Seyegan", "Sleman", "Tempel", "Turi"],
+		"name": "Kab. Sleman"
+	}, {
+		"area": ["Gedongtengen", "Gondokusuman", "Gondomanan", "Jetis", "Kotagede", "Kraton", "Mantrijeron", "Mergangsan", "Ngampilan", "Pakualaman", "Tegalrejo", "Umbulharjo", "Wirobrajan", "Yogyakarta"],
+		"name": "Kota Yogyakarta"
+	}]
+}, {
+	"name": "DKI Jakarta",
+	"city": [{
+		"area": ["Cengkareng", "Grogol Petamburan", "Jakarta Barat", "Kalideres", "Kebon Jeruk", "Kembangan", "Palmerah", "Tamansari", "Tambora"],
+		"name": "Jakarta Barat"
+	}, {
+		"area": ["Gambir", "Jakarta Pusat", "Johar Baru", "Kemayoran", "Menteng", "Sawah Besar", "Senen", "Tanah Abang"],
+		"name": "Jakarta Pusat"
+	}, {
+		"area": ["Jagakarsa", "Jakarta Selatan", "Kebayoran Baru", "Kebayoran Lama", "Mampang Prapatan", "Pancoran", "Pasar Minggu", "Pesanggrahan", "Setiabudi", "Tebet"],
+		"name": "Jakarta Selatan"
+	}, {
+		"area": ["Cipayung", "Ciracas", "Duren Sawit", "Jakarta Timur", "Jatinegara", "Kramatjati", "Makasar", "Matraman", "Pasar Rebo", "Pulo Gadung"],
+		"name": "Jakarta Timur"
+	}, {
+		"area": ["Jakarta Utara", "Kelapa Gading", "Koja", "Pademangan", "Penjaringan", "Tanjung Priok"],
+		"name": "Jakarta Utara"
+	}, {
+		"area": ["Kepulauan Seribu Utara", "Pulau Pramuka"],
+		"name": "Kepulauan Seribu"
+	}]
+}, {
+	"name": "Gorontalo",
+	"city": [{
+		"area": ["Botumoito", "Dulupi", "Mananggu", "Paguyaman", "Paguyaman Pantai", "Tilamuta", "Wonosari"],
+		"name": "Kab. Boalemo"
+	}, {
+		"area": ["Bone Raya", "Bulango Selatan", "Bulango Timur", "Bulango Ulu", "Bulango Utara", "Bulawa", "Kabila", "Kabila Bone", "Pinogu", "Suwawa", "Suwawa Selatan", "Suwawa Tengah", "Suwawa Timur", "Tapa", "Tilongkabila"],
+		"name": "Kab. Bone Bolango"
+	}, {
+		"area": ["Asparaga", "Atinggola", "Batudaa", "Batudaa Pantai", "Bilato", "Biluhu", "Boliyohuto", "Bongomeme", "Dungaliyo", "Limboto", "Limboto Barat", "Mootilango", "Pulubala", "Sumalata", "Tabongo", "Telaga", "Telaga Biru", "Telaga Jaya", "Tibawa", "Tilango", "Tolangohula", "Tolinggula"],
+		"name": "Kab. Gorontalo"
+	}, {
+		"area": ["Atinggota", "Biau", "Gentuma Raya", "Kwandang", "Monano", "Ponelo Kepulauan", "Sumalata", "Sumalata Timur", "Tolingula", "Tomolito"],
+		"name": "Kab. Gorontalo Utara"
+	}, {
+		"area": ["Dengilo", "Duhiadaa", "Lemito", "Marisa", "Paguat", "Patilanggio", "Popayato", "Popayato Barat", "Popayato Timur", "Randangan", "Taluditi", "Wanggarasi"],
+		"name": "Kab. Pahuwato"
+	}, {
+		"area": ["Dungingi", "Gorontalo", "Hulonthalangi", "Kota Barat", "Kota Selatan", "Kota Tengah", "Kota Timur", "Kota Utara", "Sipatana"],
+		"name": "Kota Gorontalo"
+	}]
+}, {
+	"name": "Jambi",
+	"city": [{
+		"area": ["Bajubang", "Batin XXIV", "Maro Sebo Ilir", "Maro Sebo Ulu", "Mersam", "Muara Bulian", "Muara Tembesi", "Pemayung"],
+		"name": "Kab. Batanghari"
+	}, {
+		"area": ["Bathin III", "Bathin III Ulu", "Bathin II Pelayang", "Bungo Dani", "Jujuhan", "Jujuhan Ilir", "Limbur Lubuk Mengkuang", "Muarabungo", "Muko-Muko Bathin VII", "Pasar Muara Bungo", "Pelepat", "Pelepat Ilir", "Rantau Pandan", "Rimbo Tengah", "Tanah Sepenggal", "Tanah Sepenggal Lintas", "Tanah Tumbuh"],
+		"name": "Kab. Bungo"
+	}, {
+		"area": ["Air Hangat Barat", "Air Hangat Timur", "Batang Merangin", "Bukit Kerman", "Danau Kerinci", "Depati Tujuh", "Gunung Kerinci", "Gunung Raya", "Gunung Tujuh", "Kayu Aro", "Kayu Aro Barat", "Keliling Danau", "Sitinjau Laut", "Siulak", "Siulak Mukai"],
+		"name": "Kab. Kerinci"
+	}, {
+		"area": ["Bangko Barat", "Batang Masumai", "Jangkat", "Jangkat Timur", "Lembah Masurai", "Margo Tabir", "Muara Siau", "Nalo Tantan", "Pamenang", "Pamenang Barat", "Pamenang Selatan", "Pangkalan Jambu", "Renah Pembarap", "Renah Pemenang", "Sungai Manau", "Tabir", "Tabir Barat", "Tabir Ilir", "Tabir Lintas", "Tabir Selatan", "Tabir Timur", "Tabir Ulu", "Tiang Pumpung"],
+		"name": "Kab. Merangin"
+	}, {
+		"area": ["Bahar Utara", "Jambi Luar Kota", "Kumpeh", "Kumpeh Ulu", "Maro Sebo", "Mestong", "Sekernan", "Sungai Bahar", "Sungai Gelam", "Taman Rajo"],
+		"name": "Kab. Muaro Jambi"
+	}, {
+		"area": ["Batang Asai", "Bathin VIII", "Cermin Nan Gadang", "Limun", "Mandiangin", "Pauh", "Pelawan", "Sarolangun", "Singkut"],
+		"name": "Kab. Sarolangun"
+	}, {
+		"area": ["Betara", "Bram Itam", "Kuala Betara", "Merlung", "Muara Papalik", "Pengabuan", "Renah Mendaluh", "Seberang Kota", "Senyerang", "Tebing Tinggi", "Tungkal Ilir", "Tungkal Ulu"],
+		"name": "Kab. Tanjung Jabung Barat"
+	}, {
+		"area": ["Dendang", "Geragai", "Kuala Jambi", "Mendahara", "Mendahara Ulu", "Muara Sabak Barat", "Muara Sabak Timur", "Nipah Panjang", "Rantau Rasau", "Sadu"],
+		"name": "Kab. Tanjung Jabung Timur"
+	}, {
+		"area": ["Muara Tebo", "Rimbo Bujang", "Rimbo Ilir", "Rimbo Ulu", "Serai Serumpun", "Sumay", "Tebo Ilir", "Tebo Tengah", "Tebo Ulu", "Tengah Ilir", "VII Koto", "VII Koto Ilir"],
+		"name": "Kab. Tebo"
+	}, {
+		"area": ["Danau Sipin", "Danau Teluk", "Jambi", "Jambi Selatan", "Jambi Timur", "Jelutung", "Kota Baru", "Paal Merah", "Pasar Jambi", "Pelayangan", "Telanaipura"],
+		"name": "Kota Jambi"
+	}, {
+		"area": ["Koto Baru", "Kumun Debai", "Pesisir Bukit", "Pondok Tinggi", "Sungai Bungkal", "Sungai Penuh", "Tanah Kampung"],
+		"name": "Kota Sungai Penuh"
+	}]
+}, {
+	"name": "Jawa Barat",
+	"city": [{
+		"area": ["Arjasari", "Baleendah", "Banjaran", "Bojong Soang", "Cangkuang", "Cicalengka", "Cikancung", "Cilengkrang", "Cileunyi", "Cimaung", "Cimenyan", "Ciparay", "Ciwidey", "Dayeuhkolot", "Ibun", "Katapang", "Kertasari", "Kutawaringin", "Majalaya", "Margaasih", "Margahayu", "Nagreg", "Pacet", "Pameungpeuk", "Pangalengan", "Paseh", "Pasirjambu", "Rancabali", "Rancaekek", "Solokan Jeruk", "Soreang"],
+		"name": "Kab. Bandung"
+	}, {
+		"area": ["Cihampelas", "Cikalong Wetan", "Cililin", "Cimareme", "Cipatat", "Cipeundeuy", "Cipongkor", "Cisarua", "Gununghalu", "Lembang", "Ngamprah", "Padalarang", "Parongpong", "Rongga", "Saguling", "Sindangkerta"],
+		"name": "Kab. Bandung Barat"
+	}, {
+		"area": ["Bojongmangu", "Cabangbungin", "Cibarusah", "Cibitung", "Cikarang", "Cikarang Barat", "Cikarang Pusat", "Cikarang Selatan", "Cikarang Timur", "Cikarang Utara", "Karangbahagia", "Kedungwaringin", "Muara Gembong", "Pebayuran", "Serang Baru", "Setu", "Sukakarya", "Sukatani", "Sukawangi", "Tambelang", "Tambun Selatan", "Tambun Utara", "Tarumajaya"],
+		"name": "Kab. Bekasi"
+	}, {
+		"area": ["Bojonggede", "Caringin", "Cariu", "Ciampea", "Ciawi", "Cibinong", "Cibungbulang", "Cigombong", "Cigudeg", "Cijeruk", "Cileungsi", "Ciomas", "Cisarua", "Ciseeng", "Citeureup", "Dramaga", "Gunung Putri", "Gunung Sindur", "Jasinga", "Jonggol", "Kemang", "Klapanunggal", "Leuwiliang", "Leuwisadeng", "Megamendung", "Nanggung", "Pamijahan", "Parung", "Parung Panjang", "Ranca Bungur", "Rumpin", "Sukajaya", "Sukamakmur", "Sukaraja", "Tajurhalang", "Tamansari", "Tanjungsari", "Tenjo", "Tenjolaya"],
+		"name": "Kab. Bogor"
+	}, {
+		"area": ["Baregbeg", "Ciamis", "Cidolog", "Cihaurbeuti", "Cijeungjing", "Cikoneng", "Cimaragas", "Cipaku", "Cisaga", "Jatinagara", "Kawali", "Lakbok", "Lumbung", "Pamarican", "Panawangan", "Panjalu", "Panumbangan", "Purwadadi", "Rajadesa", "Rancah", "Sadananya", "Sindangkasih", "Sukadana", "Sukamantri", "Tambaksari"],
+		"name": "Kab. Ciamis"
+	}, {
+		"area": ["Bojongpicung", "Campaka", "Campaka Mulya", "Cianjur", "Cibeber", "Cibinong", "Cidaun", "Cijati", "Cikadu", "Cikalongkulon", "Cilaku", "Cipanas", "Ciranjang", "Cugenang", "Gekbrong", "Haurwangi", "Kadupandak", "Karangtengah", "Leles", "Mande", "Naringgul", "Pacet", "Pagelaran", "Pasirkuda", "Sindangbarang", "Sukaluyu", "Sukanagara", "Sukaresmi", "Takokak", "Tanggeung", "Warungkondang"],
+		"name": "Kab. Cianjur"
+	}, {
+		"area": ["Astanajapura", "Babakan", "Beber", "Ciledug", "Cirebon Selatan", "Cirebon Utara", "Ciwaringin", "Depok", "Dukupuntang", "Gebang", "Gegesik", "Gempol", "Greged", "Gunung Jati", "Jamblang", "Kaliwedi", "Kapetakan", "Karangsembung", "Karangwareng", "Kedawung", "Klangenan", "Lemahabang", "Losari", "Mundu", "Pabedilan", "Pabuaran", "Palimanan", "Pangenan", "Panguragan", "Pasaleman", "Plered", "Plumbon", "Sedong", "Sumber", "Suranenggala", "Susukan", "Susukanlebak", "Talun", "Tengah Tani", "Waled", "Weru"],
+		"name": "Kab. Cirebon"
+	}, {
+		"area": ["Banjarwangi", "Banyuresmi", "Bayongbong", "Bungbulang", "Caringin", "Cibalong", "Cibatu", "Cibiuk", "Cigedug", "Cihurip", "Cikajang", "Cikelet", "Cilawu", "Cisewu", "Cisompet", "Cisurupan", "Garut", "Kadungora", "Karangpawitan", "Karangtengah", "Kersamanah", "Leles", "Leuwigoong", "Malangbong", "Mekarmukti", "Pakenjeng", "Pameungpeuk", "Pamulihan", "Pangatikan", "Pasirwangi", "Peundeuy", "Samarang", "Selaawi", "Singajaya", "Sucinaraja", "Sukaresmi", "Sukawening", "Talegong", "Tarogong Kaler", "Tarogong Kidul", "Wanaraja"],
+		"name": "Kab. Garut"
+	}, {
+		"area": ["Arahan", "Balongan", "Bangodua", "Bongas", "Cantigi", "Cikedung", "Gabus Wetan", "Gantar", "Haurgeulis", "Indramayu", "Jatibarang", "Juntiyuat", "Kandanghaur", "Karangampel", "Kedokan Bunder", "Kertasemaya", "Krangkeng", "Kroya", "Lelea", "Lohbener", "Losarang", "Pasekan", "Patrol", "Sindang", "Sliyeg", "Sukagumiwang", "Sukra", "Trisi", "Tukdana", "Widasari"],
+		"name": "Kab. Indramayu"
+	}, {
+		"area": ["Batujaya", "Ciampel", "Cibuaya", "Cikampek", "Cilamaya Kulon", "Cilamaya Wetan", "Cilebar", "Jatisari", "Jayakerta", "Karawang", "Karawang Barat", "Karawang Timur", "Klari", "Kotabaru", "Kutawaluya", "Lemahabang", "Majalaya", "Pakisjaya", "Pangkalan", "Pedes", "Purwasari", "Rawamerta", "Rengasdengklok", "Talagasari", "Tegalwaru", "Telukjambe Barat", "Telukjambe Timur", "Tempuran", "Tirtajaya", "Tirtamulya"],
+		"name": "Kab. Karawang"
+	}, {
+		"area": ["Cibeureum", "Cibingbin", "Cidahu", "Cigandamekar", "Cigugur", "Cilebak", "Cilimus", "Cimahi", "Ciniru", "Cipicung", "Ciwaru", "Darma", "Garawangi", "Hantara", "Jalaksana", "Japara", "Kadugede", "Kalimanggis", "Karangkancana", "Kramatmulya", "Kuningan", "Lebakwangi", "Luragung", "Maleber", "Mandirancan", "Nusaherang", "Pancalang", "Pasawahan", "Selajambe", "Sindangagung", "Subang"],
+		"name": "Kab. Kuningan"
+	}, {
+		"area": ["Banjaran", "Bantarujeg", "Cigasong", "Cikijing", "Cingambul", "Dawuan", "Jatitujuh", "Jatiwangi", "Kadipaten", "Kasokendel", "Kertajati", "Lemahsugih", "Leuwimunding", "Ligung", "Maja", "Majalengka", "Malausma", "Palasah", "Panyingkiran", "Rajagaluh", "Sindang", "Sindangwangi", "Sukahaji", "Sumber Jaya", "Talaga"],
+		"name": "Kab. Majalengka"
+	}, {
+		"area": ["Cijulang", "Cimerak", "Kalipucang", "Langkaplancar", "Mangunjaya", "Padaherang", "Pangandaran", "Parigi", "Sidamulih"],
+		"name": "Kab. Pangandaran"
+	}, {
+		"area": ["Bojong", "Bungursari", "Campaka", "Cibatu", "Darangdan", "Jatiluhur", "Kiarapedes", "Maniis", "Pasawahan", "Plered", "Pondoksalam", "Purwakarta", "Sukasari", "Sukatani", "Tegalwaru", "Wanayasa"],
+		"name": "Kab. Purwakarta"
+	}, {
+		"area": ["Blanakan", "Ciasem", "Ciater", "Cibogo", "Cijambe", "Cikaum", "Cipeundeuy", "Cipunagara", "Cisalak", "Compreng", "Dawuan", "Jalan Cagak", "Kalijati", "Kasomalang", "Legon Kulon", "Pabuaran", "Pagaden", "Pagaden Barat", "Pamanukan", "Patok Beusi", "Purwadadi", "Pusakajaya", "Pusakanagara", "Sagalaherang", "Serangpanjang", "Subang", "Sukasari", "Tambakdahan", "Tanjung Siang"],
+		"name": "Kab. Subang"
+	}, {
+		"area": ["Bojong Genteng", "Caringin", "Ciambar", "Cibadak", "Cibitung", "Cicantayan", "Cicurug", "Cidadap", "Cidahu", "Cidolog", "Ciemas", "Cikakak", "Cikembar", "Cikidang", "Cimanggu", "Ciracap", "Cireunghas", "Cisaat", "Cisolok", "Curugkembar", "Gegerbitung", "Gunung Guruh", "Jampang Kulon", "Jampang Tengah", "Kabandungan", "Kadudampit", "Kalapa Nunggal", "Kalibunder", "Kebonpedes", "Lengkong", "Nagrak", "Nyalindung", "Pabuaran", "Parakan Salak", "Parung Kuda", "Pelabuhan Ratu", "Purabaya", "Sagaranten", "Simpenan", "Sukabumi", "Sukalarang", "Sukaraja", "Surade", "Tegal Buleud", "Waluran", "Warung Kiara"],
+		"name": "Kab. Sukabumi"
+	}, {
+		"area": ["Cibugel", "Cimalaka", "Cimanggung", "Cisarua", "Cisitu", "Conggeang", "Darmaraja", "Ganeas", "Jatigede", "Jatinangor", "Jatinunggal", "Pamulihan", "Paseh", "Rancakalong", "Situraja", "Sukasari", "Sumedang", "Sumedang Selatan", "Sumedang Utara", "Surian", "Tanjungkerta", "Tanjungmedar", "Tanjungsari", "Tomo", "Ujung Jaya", "Wado"],
+		"name": "Kab. Sumedang"
+	}, {
+		"area": ["Bojongasih", "Bojonggambir", "Ciawi", "Cibalong", "Cigalontang", "Cikalong", "Cikatomas", "Cineam", "Cipatujah", "Cisayong", "Culamega", "Gunung Tanjung", "Jamanis", "Jatiwaras", "Kadipaten", "Karangjaya", "Karangnunggal", "Leuwisari", "Mangunreja", "Manonjaya", "Padakembang", "Pagerageung", "Pancatengah", "Parungponteng", "Puspahiang", "Rajapolah", "Salawu", "Salopa", "Sariwangi", "Singaparna", "Sodonghilir", "Sukahening", "Sukaraja", "Sukarame", "Sukaratu", "Sukaresik", "Tanjungjaya", "Taraju"],
+		"name": "Kab. Tasikmalaya"
+	}, {
+		"area": ["Antapani", "Arcamanik", "Astanaanyar", "Babakanciparay", "Bandung", "Bandung Kidul", "Bandung Kulon", "Bandung Wetan", "Batununggal", "Bojongloa Kaler", "Bojongloa Kidul", "Buahbatu", "Cibeunying Kaler", "Cibeunying Kidul", "Cibiru", "Cicadas", "Cicendo", "Cidadap", "Cinambo", "Coblong", "Gedebage", "Kiaracondong", "Lengkong", "Mandalajati", "Margacinta", "Panyileukan", "Rancasari", "Regol", "Sukajadi", "Sukasari", "Sumur bandung", "Ujungberung"],
+		"name": "Kota Bandung"
+	}, {
+		"area": ["Langensari", "Pataruman", "Purwaharja"],
+		"name": "Kota Banjar"
+	}, {
+		"area": ["Bekasi", "Bekasi Barat", "Bekasi Selatan", "Bekasi Timur", "Bekasi Utara", "Jatiasih", "Jatisampurna", "Medan Satria", "Mustika Jaya", "Pondok Gede", "Pondok Melati", "Rawalumbu"],
+		"name": "Kota Bekasi"
+	}, {
+		"area": ["Bogor Barat", "Bogor Selatan", "Bogor Tengah", "Bogor Timur", "Bogor Utara", "Semplak", "Tanah Sereal"],
+		"name": "Kota Bogor"
+	}, {
+		"area": ["Cimahi Selatan", "Cimahi Tengah", "Cimahi Utara"],
+		"name": "Kota Cimahi"
+	}, {
+		"area": ["Cirebon Barat", "Harjamukti", "Kejaksan", "Kesambi", "Lemahwungkuk", "Pekalipan"],
+		"name": "Kota Cirebon"
+	}, {
+		"area": ["Bojongsari", "Cibubur", "Cilodong", "Cimanggis", "Cinere", "Cipayung", "Depok", "Limo", "Pancoran Mas", "Sawangan", "Sukmajaya", "Tapos"],
+		"name": "Kota Depok"
+	}, {
+		"area": ["Cibeureum", "Cikole", "Citamiang", "Gunungpuyuh", "Lembursitu", "Warudoyong"],
+		"name": "Kota Sukabumi"
+	}, {
+		"area": ["Cibeureum", "Cihideung", "Cipedes", "Indihiang", "Kawalu", "Mangkubumi", "Purbaratu", "Tamansari", "Tasikmalaya", "Tawang"],
+		"name": "Kota Tasikmalaya"
+	}]
+}, {
+	"name": "Jawa Tengah",
+	"city": [{
+		"area": ["Banjarmangu", "Banjarnegara", "Batur", "Bawang", "Kalibening", "Karangkobar", "Madukara", "Mandiraja", "Pagedongan", "Pagentan", "Pandanarum", "Pejawaran", "Punggelan", "Purwanegara", "Purworejo Klampok", "Rakit", "Sigaluh", "Susukan", "Wanadadi", "Wanayasa"],
+		"name": "Kab. Banjarnegara"
+	}, {
+		"area": ["Banyumas", "Baturaden", "Cilongok", "Gumelar", "Jatilawang", "Kalibagor", "Karanglewas", "Kebasen", "Kedungbanteng", "Kembaran", "Kemranjen", "Lumbir", "Patikraja", "Pekuncen", "Purwojati", "Purwokerto", "Purwokerto Barat", "Purwokerto Selatan", "Purwokerto Timur", "Purwokerto Utara", "Rawalo", "Sokaraja", "Somagede", "Sumbang", "Sumpiuh", "Tambak", "Wangon"],
+		"name": "Kab. Banyumas"
+	}, {
+		"area": ["Banyuputih", "Batang", "Bawang", "Blado", "Gringsing", "Kandeman", "Limpung", "Pecalungan", "Reban", "Subah", "Tersono", "Tulis", "Warungasem", "Wonotunggal"],
+		"name": "Kab. Batang"
+	}, {
+		"area": ["Blora", "Bogorejo", "Cepu", "Japah", "Jati", "Jepon", "Jiken", "Kedungtuban", "Kradenan", "Kunduran", "Ngawen", "Randublatung", "Sambong", "Todanan", "Tunjungan"],
+		"name": "Kab. Blora"
+	}, {
+		"area": ["Andong", "Banyudono", "Boyolali", "Boyolali Penggung", "Cepogo", "Juwangi", "Karanggede", "Kemusu", "Klego", "Mojosongo", "Musuk", "Ngemplak", "Nogosari", "Sambi", "Sawit", "Selo", "Simo", "Teras", "Wonosegoro"],
+		"name": "Kab. Boyolali"
+	}, {
+		"area": ["Bantarkawung", "Brebes", "Bulakamba", "Bumiayu", "Jatibarang", "Kersana", "Ketanggungan", "Larangan", "Losari", "Paguyangan", "Salem", "Sirampog", "Songgom", "Tanjung", "Tonjong", "Wanasari"],
+		"name": "Kab. Brebes"
+	}, {
+		"area": ["Bantarsari", "Binangun", "Cilacap", "Cilacap Selatan", "Cilacap Tengah", "Cilacap Utara", "Cimanggu", "Cipari", "Dayeuhluhur", "Gandrungmangu", "Jeruklegi", "Kampung Laut", "Karangpucung", "Kawunganten", "Kedungrejo", "Kesugihan", "Kroya", "Majenang", "Maos", "Nusawungu", "Patimuan", "Sampang", "Sidareja", "Wanareja"],
+		"name": "Kab. Cilacap"
+	}, {
+		"area": ["Demak", "Dempet", "Gajah", "Guntur", "Karanganyar", "Karangawen", "Karangtengah", "Kebonagung", "Mijen", "Mranggen", "Sayung", "Wedung", "Wonosalam"],
+		"name": "Kab. Demak"
+	}, {
+		"area": ["Gabus", "Geyer", "Godong", "Grobogan", "Gubug", "Karangrayung", "Kedungjati", "Klambu", "Kradenan", "Ngaringan", "Penawangan", "Pulokulon", "Purwodadi", "Tanggungharjo", "Tawangharjo", "Tegowanu", "Toroh", "Wirosari"],
+		"name": "Kab. Grobogan"
+	}, {
+		"area": ["Batealit", "Donorojo", "Jepara", "Kalinyamatan", "Karimunjawa", "Kedung", "Keling", "Kembang", "Mayong", "Mlonggo", "Nalumsari", "Pakis Aji", "Pecangaan", "Tahunan", "Welahan"],
+		"name": "Kab. Jepara"
+	}, {
+		"area": ["Gondangrejo", "Jaten", "Jatipuro", "Jatiyoso", "Jenawi", "Jumantono", "Jumapolo", "Karanganyar", "Karangpandan", "Kebakkramat", "Kerjo", "Matesih", "Mojogedang", "Ngargoyoso", "Tasikmadu", "Tawangmangu"],
+		"name": "Kab. Karanganyar"
+	}, {
+		"area": ["Aliyan", "Ambal", "Ayah", "Bonorowo", "Buayan", "Bulupesantren", "Gombong", "Karanganyar", "Karanggayam", "Karangsambung", "Kebumen", "Klirong", "Kutowinangun", "Kuwarasan", "Mirit", "Padureso", "Pejagoan", "Petanahan", "Poncowarno", "Prembun", "Puring", "Rowokele", "Sadang", "Sempor", "Sruweng"],
+		"name": "Kab. Kebumen"
+	}, {
+		"area": ["Brangsong", "Cepiring", "Gemuh", "Kaliwungu", "Kaliwungu Selatan", "Kangkung", "Kendal", "Limbangan", "Ngampel", "Pagerruyung", "Patean", "Patebon", "Pegandon", "Plantungan", "Ringinarum", "Rowosari", "Singorojo", "Sukorejo", "Weleri"],
+		"name": "Kab. Kendal"
+	}, {
+		"area": ["Cawas", "Ceper", "Delanggu", "Gantiwarno", "Jatinom", "Jogonalan", "Juwiring", "Kalikotes", "Karanganom", "Karangdowo", "Karangnongko", "Kebonarum", "Kemalang", "Klaten", "Klaten Selatan", "Klaten Tengah", "Klaten Utara", "Manisrenggo", "Ngawen", "Pedan", "Polanharjo", "Prambanan", "Trucuk", "Tulung", "Wedi", "Wonosari"],
+		"name": "Kab. Klaten"
+	}, {
+		"area": ["Dawe", "Gebog", "Jati", "Jekulo", "Kaliwungu", "Kota Kudus", "Mejobo", "Undaan"],
+		"name": "Kab. Kudus"
+	}, {
+		"area": ["Borobudur", "Candimulyo", "Dukun", "Grabag", "Kajoran", "Kaliangkrik", "Mertoyudan", "Mungkid", "Muntilan", "Ngablak", "Ngluwar", "Pakis", "Salam", "Salaman", "Sawangan", "Secang", "Srumbung", "Tegalrejo", "Tempuran", "Windusari"],
+		"name": "Kab. Magelang"
+	}, {
+		"area": ["Cluwak", "Dukuhseti", "Gabus", "Gembong", "Gunungwungkal", "Jaken", "Jakenan", "Juwana", "Kayen", "Margorejo", "Margoyoso", "Pati", "Pucakwangi", "Sukolilo", "Tambakromo", "Tayu", "Telogowungu", "Trangkil", "Wedarijaksa", "Winong"],
+		"name": "Kab. Pati"
+	}, {
+		"area": ["Buaran", "Doro", "Kajen", "Kandangserang", "Karanganyar", "Karangdadap", "Kedungwuni", "Kesesi", "Lebakbarang", "Paninggaran", "Petungkriono", "Siwalan", "Sragi", "Talun", "Tirto", "Wiradesa", "Wonokerto", "Wonopringgo"],
+		"name": "Kab. Pekalongan"
+	}, {
+		"area": ["Bantarbolang", "Belik", "Bodeh", "Comal", "Moga", "Pemalang", "Petarukan", "Pulosari", "Randudongkal", "Taman", "Ulujami", "Warungpring", "Watukumpul"],
+		"name": "Kab. Pemalang"
+	}, {
+		"area": ["Bojongsari", "Bukateja", "Kaligondang", "Kalimanah", "Karanganyar", "Karangjambu", "Karangmoncol", "Karangreja", "Kejobong", "Kemangkon", "Kertanegara", "Kutasari", "Mrebet", "Padamara", "Pengadegan", "Purbalingga", "Rembang"],
+		"name": "Kab. Purbalingga"
+	}, {
+		"area": ["Banyuurip", "Bayan", "Bener", "Bruno", "Butuh", "Gebang", "Grabag", "Kaligesing", "Kemiri", "Kutoarjo", "Loano", "Ngombol", "Pituruh", "Purwodadi", "Purworejo"],
+		"name": "Kab. Purworejo"
+	}, {
+		"area": ["Gunem", "Kaliori", "Kragan", "Lasem", "Pamotan", "Pancur", "Rembang", "Sale", "Sarang", "Sedan", "Sluke", "Sulang", "Sumber"],
+		"name": "Kab. Rembang"
+	}, {
+		"area": ["Bancak", "Bandungan", "Banyubiru", "Bawen", "Bergas", "Bringin", "Getasan", "Jambu", "Kaliwungu", "Pabelan", "Pringapus", "Sumowono", "Suruh", "Susukan", "Tengaran", "Tuntang", "Ungaran", "Ungaran Barat", "Ungaran Timur"],
+		"name": "Kab. Semarang"
+	}, {
+		"area": ["Gesi", "Gondang", "Jenar", "Kalijambe", "Karangmalang", "Kedawung", "Masaran", "Miri", "Mondokan", "Ngrampal", "Plupuh", "Sambirejo", "Sambungmacan", "Sidoharjo", "Sragen", "Sukodono", "Sumberlawang", "Tangen", "Tanon"],
+		"name": "Kab. Sragen"
+	}, {
+		"area": ["Bendosari", "Bulu", "Gatak", "Grogol", "Kartasura", "Mojolaban", "Nguter", "Polokarto", "Sukoharjo", "Tawangsari", "Weru"],
+		"name": "Kab. Sukoharjo"
+	}, {
+		"area": ["Balapulang", "Bojong", "Bumijawa", "Dukuhturi", "Dukuhwaru", "Jatinegara", "Kedungbanteng", "Kramat", "Lebaksiu", "Margasari", "Pagerbarang", "Pangkah", "Slawi", "Suradadi", "Talang", "Tarub", "Warureja"],
+		"name": "Kab. Tegal"
+	}, {
+		"area": ["Bejen", "Bulu", "Candiroto", "Gemawang", "Jumo", "Kaloran", "Kandangan", "Kedu", "Kledung", "Kranggan", "Ngadirejo", "Parakan", "Pringsurat", "Selopampang", "Temanggung", "Tembarak", "Tlogomulyo", "Tretep", "Wonoboyo"],
+		"name": "Kab. Temanggung"
+	}, {
+		"area": ["Batuwarno", "Bulukerto", "Eromoko", "Girimarto", "Giritontro", "Giriwoyo", "Jatipurno", "Jatiroto", "Jatisrono", "Karangtengah", "Kismantoro", "Manyaran", "Ngadirojo", "Nguntoronadi", "Paranggupito", "Pracimantoro", "Puhpelem", "Purwantoro", "Selogiri", "Sidoharjo", "Slogohimo", "Tirtomoyo", "Wonogiri", "Wuryantoro"],
+		"name": "Kab. Wonogiri"
+	}, {
+		"area": ["Kalibawang", "Kalikajar", "Kaliwiro", "Kejajar", "Kepil", "Kertek", "Leksono", "Mojotengah", "Sapuran", "Selomerto", "Sukoharjo", "Wadaslintang", "Watumalang", "Wonosobo"],
+		"name": "Kab. Wonosobo"
+	}, {
+		"area": ["Magelang Selatan", "Magelang Tengah", "Magelang Utara"],
+		"name": "Kota Magelang"
+	}, {
+		"area": ["Pekalongan Barat", "Pekalongan Selatan", "Pekalongan Timur", "Pekalongan Utara"],
+		"name": "Kota Pekalongan"
+	}, {
+		"area": ["Salatiga", "Sidomukti", "Sidorejo", "Tingkir"],
+		"name": "Kota Salatiga"
+	}, {
+		"area": ["Candisari", "Gajahmungkur", "Gayamsari", "Genuk", "Gunungpati", "Mijen", "Ngaliyan", "Pedurungan", "Semarang", "Semarang Barat", "Semarang Selatan", "Semarang Tengah", "Semarang Timur", "Semarang Utara", "Tembalang", "Tugu"],
+		"name": "Kota Semarang"
+	}, {
+		"area": ["Jebres", "Laweyan", "Pasar Kliwon", "Serengan", "Solo"],
+		"name": "Kota Surakarta"
+	}, {
+		"area": ["Tegal", "Tegal Barat", "Tegal Selatan", "Tegal Timur"],
+		"name": "Kota Tegal"
+	}]
+}, {
+	"name": "Jawa Timur",
+	"city": [{
+		"area": ["Arosbaya", "Balega", "Bangkalan", "Burneh", "Galis", "Geger", "Kamal", "Klampis", "Kokop", "Konang", "Kwanyar", "Labang", "Modung", "Sepulu", "Socah", "Tanah Merah", "Tanjungbumi", "Tragah"],
+		"name": "Kab. Bangkalan"
+	}, {
+		"area": ["Banyuwangi", "Cluring", "Gambiran", "Genteng", "Giri", "Glagah", "Glenmore", "Kabat", "Kalibaru", "Kalipuro", "Licin", "Muncar", "Pesanggaran", "Purwoharjo", "Rogojampi", "Sempu", "Siliragung", "Singojuruh", "Songgon", "Srono", "Tegaldlimo", "Tegalsari", "Wongsorejo"],
+		"name": "Kab. Banyuwangi"
+	}, {
+		"area": ["Binangun", "Blitar", "Doko", "Gandusari", "Garum", "Kademangan", "Kanigoro", "Kesamben", "Nglegok", "Panggungrejo", "Ponggok", "Sanankulon", "Selopuro", "Selorejo", "Srengat", "Sutojayan", "Talun", "Udanawu", "Wates", "Wlingi", "Wonodadi", "Wonotirto"],
+		"name": "Kab. Blitar"
+	}, {
+		"area": ["Baureno", "Bojonegoro", "Bubulan", "Dander", "Gayam", "Gondang", "Kalitidu", "Kanor", "Kapas", "Kasiman", "Kedewan", "Kedungadem", "Kepohbaru", "Malo", "Margomulyo", "Ngambon", "Ngasem", "Ngraho", "Padangan", "Purwosari", "Sekar", "Sugihwaras", "Sukosewu", "Sumberejo", "Tambakrejo", "Temayang", "Trucuk"],
+		"name": "Kab. Bojonegoro"
+	}, {
+		"area": ["Bondowoso", "Botolinggo", "Cermee", "Curahdami", "Grujugan", "Jambesari Darus Sholah", "Klabang", "Maesan", "Pakem", "Prajekan", "Pujer", "Sempol", "Sukosari", "Sumberwringin", "Tamanan", "Taman Krocok", "Tapen", "Tegalampel", "Tenggarang", "Tlogosari", "Wonosari", "Wringin"],
+		"name": "Kab. Bondowoso"
+	}, {
+		"area": ["Benjeng", "Bungah", "Cerme", "Driyorejo", "Duduk Sampeyan", "Dukun", "Gresik", "Kebomas", "Kedamean", "Manyar", "Menganti", "Panceng", "Sangkapura", "Sidayu", "Tambak", "Ujung Pangkah", "Wringinanom"],
+		"name": "Kab. Gresik"
+	}, {
+		"area": ["Ambulu", "Arjasa", "Balung", "Bangsalsari", "Gumukmas", "Jelbuk", "Jember", "Jenggawah", "Jombang", "Kalisat", "Kaliwates", "Kencong", "Ledokombo", "Mayang", "Mumbulsari", "Pakusari", "Panti", "Patrang", "Puger", "Rambipuji", "Semboro", "Silo", "Sukorambi", "Sukowono", "Sumberbaru", "Sumberjambe", "Sumbersari", "Tanggul", "Tempurejo", "Umbulsari", "Wuluhan"],
+		"name": "Kab. Jember"
+	}, {
+		"area": ["Bareng", "Diwek", "Gudo", "Jogoroto", "Jombang", "Kabuh", "Kesamben", "Kudu", "Megaluh", "Mojoagung", "Mojowarno", "Ngoro", "Ngusikan", "Perak", "Peterongan", "Plandaan", "Ploso", "Sumobito", "Tembelang", "Wonosalam"],
+		"name": "Kab. Jombang"
+	}, {
+		"area": ["Banyakan", "Gampengrejo", "Grogol", "Gurah", "Kandangan", "Kandat", "Kayen Kidul", "Kediri", "Kepung", "Kras", "Kunjang", "Mojo", "Ngadiluwih", "Ngancar", "Ngasem", "Pagu", "Papar", "Pare", "Plemahan", "Plosoklaten", "Puncu", "Purwoasri", "Ringinrejo", "Semen", "Tarokan", "Wates"],
+		"name": "Kab. Kediri"
+	}, {
+		"area": ["Bluluk", "Brondong", "Deket", "Glagah", "Kalitengah", "Karangbinangun", "Karanggeneng", "Kedungpring", "Kembangbahu", "Lamongan", "Laren", "Maduran", "Mantup", "Modo", "Ngimbang", "Paciran", "Pucuk", "Sambeng", "Sarirejo", "Sekaran", "Solokuro", "Sugio", "Sukodadi", "Sukorame", "Tikung", "Turi"],
+		"name": "Kab. Lamongan"
+	}, {
+		"area": ["Gucialit", "Jatiroto", "Kedungjajang", "Klakah", "Kunir", "Lumajang", "Padang", "Pasirian", "Pasrujambe", "Pronojiwo", "Randuagung", "Ranuyoso", "Rowokangkung", "Senduro", "Sukodono", "Sumbersoko", "Tekung", "Tempeh", "Tempursari", "Yosowilangun"],
+		"name": "Kab. Lumajang"
+	}, {
+		"area": ["Caruban", "Dagangan", "Dolopo", "Geger", "Gemarang", "Jiwan", "Kare", "Kebonsari", "Madiun", "Mejayan", "Pilangkenceng", "Saradan", "Sawahan", "Wonoasri", "Wungu"],
+		"name": "Kab. Madiun"
+	}, {
+		"area": ["Bendo", "Karangrejo", "Karas", "Kartoharjo", "Kawedanan", "Lembeyan", "Magetan", "Maospati", "Ngariboyo", "Nguntoronadi", "Panekan", "Parang", "Plaosan", "Poncol", "Sidorejo", "Sukomoro", "Takeran"],
+		"name": "Kab. Magetan"
+	}, {
+		"area": ["Bantur", "Bululawang", "Dampit", "Dau", "Donomulyo", "Gedangan", "Gondanglegi", "Jabung", "Kalipare", "Karangploso", "Kasembon", "Kepanjen", "Kromengan", "Lawang", "Ngajung", "Ngantang", "Pagak", "Pagelaran", "Pakis", "Pakisaji", "Poncokusumo", "Pujon", "Singosari", "Sumbermanjing Wetan", "Sumberpucung", "Tajinan", "Tirtoyudo", "Tumpang", "Turen", "Wagir", "Wajak", "Wonosari"],
+		"name": "Kab. Malang"
+	}, {
+		"area": ["Dawarblandong", "Dlanggu", "Gedeg", "Gondang", "Jatirejo", "Jetis", "Kemlagi", "Kutorejo", "Mojoanyar", "Mojokerto", "Mojosari", "Ngoro", "Pacet", "Pungging", "Puri", "Sooko", "Trawas", "Trowulan"],
+		"name": "Kab. Mojokerto"
+	}, {
+		"area": ["Baron", "Berbek", "Gondang", "Jatikalen", "Kertosono", "Lengkong", "Loceret", "Nganjuk", "Ngetos", "Ngluyu", "Ngronggot", "Pace", "Patianrowo", "Prambon", "Rejoso", "Sawahan", "Sukomoro", "Tanjunganom", "Wilangan"],
+		"name": "Kab. Nganjuk"
+	}, {
+		"area": ["Geneng", "Gerih", "Jogorogo", "Karanganyar", "Karangjati", "Kasreman", "Kedunggalar", "Kendal", "Kendungan", "Kwadungan", "Mantingan", "Ngawi", "Ngrambe", "Padas", "Pangkur", "Paron", "Pitu", "Sine", "Widodaren"],
+		"name": "Kab. Ngawi"
+	}, {
+		"area": ["Bandar", "Donorojo", "Kebonagung", "Nawangan", "Ngadirojo", "Pacitan", "Pringkuku", "Punung", "Sudimoro", "Tegalombo", "Tulakan"],
+		"name": "Kab. Pacitan"
+	}, {
+		"area": ["Galis", "Kadur", "Larangan", "Pademawu", "Pakong", "Palengaan", "Pamekasan", "Pasean", "Pegantenan", "Proppo", "Tlanakan", "Waru"],
+		"name": "Kab. Pamekasan"
+	}, {
+		"area": ["Beji", "Gempol", "Gondang Wetan", "Grati", "Kejayan", "Kraton", "Lekok", "Lumbang", "Nguling", "Pandaan", "Pasrepan", "Pohjentrek", "Prigen", "Purwodadi", "Purwosari", "Puspo", "Rejoso", "Rembang", "Sukorejo", "Tosari", "Tutur", "Winongan", "Wonorejo"],
+		"name": "Kab. Pasuruan"
+	}, {
+		"area": ["Badegan", "Balong", "Bungkal", "Jambon", "Jenangan", "Jetis", "Kauman", "Mlarak", "Ngebel", "Ngrayun", "Ponorogo", "Pudak", "Pulung", "Sambit", "Sampung", "Sawoo", "Siman", "Slahung", "Sooko", "Sukorejo"],
+		"name": "Kab. Ponorogo"
+	}, {
+		"area": ["Banyuanyar", "Besuk", "Dringu", "Gading", "Gending", "Kotaanyar", "Kraksaan", "Krejengan", "Krucil", "Kuripan", "Leces", "Lumbang", "Maron", "Paiton", "Pajarakan", "Pakuniran", "Probolinggo", "Sukapura", "Sumber", "Sumberasih", "Tegalsiwalan", "Tiris", "Tongas", "Wonomerto"],
+		"name": "Kab. Probolinggo"
+	}, {
+		"area": ["Camplong", "Jrengik", "Karang Penang", "Kedungdung", "Ketapang", "Omben", "Pangarengan", "Robatal", "Sampang", "Sokobanah", "Sreseh", "Tambelangan", "Torjun"],
+		"name": "Kab. Sampang"
+	}, {
+		"area": ["Buduran", "Candi", "Gedangan", "Jabon", "Krembung", "Krian", "Porong", "Prambon", "Sedati", "Sidoarjo", "Sukodono", "Taman", "Tanggulangin", "Tarik", "Tulangan", "Waru", "Wonoayu"],
+		"name": "Kab. Sidoarjo"
+	}, {
+		"area": ["Asembagus", "Banyugluglur", "Banyuputih", "Besuki", "Bungatan", "Jangkar", "Jatibanteng", "Kapongan", "Kendit", "Mangaran", "Mlandingan", "Panarukan", "Panji", "Situbondo", "Suboh", "Sumber Malang"],
+		"name": "Kab. Situbondo"
+	}, {
+		"area": ["Arjasa", "Batang Batang", "Batuan", "Batuputih", "Bluto", "Dasuk", "Dungkek", "Ganding", "Gapura", "Gayam", "Gili Ginting", "Guluk-Guluk", "Kalianget", "Kangayan", "Kota Sumenep", "Lenteng", "Manding", "Masalembu", "Nonggunong", "Pasongsongan", "Pragaan", "Raas", "Rubaru", "Sapeken", "Saronggi", "Talango"],
+		"name": "Kab. Sumenep"
+	}, {
+		"area": ["Dongko", "Durenan", "Gandusari", "Kampak", "Karangan", "Munjungan", "Panggul", "Pogalan", "Pule", "Suruh", "Trenggalek", "Tugu", "Watulimo"],
+		"name": "Kab. Trenggalek"
+	}, {
+		"area": ["Bangilan", "Grabagan", "Jatirogo", "Jenu", "Kenduruan", "Kerek", "Merakurak", "Montong", "Palang", "Parengan", "Plumpang", "Rengel", "Semanding", "Senori", "Singgahan", "Soko", "Tambakboyo", "Tuban", "Widang"],
+		"name": "Kab. Tuban"
+	}, {
+		"area": ["Besuki", "Boyolangu", "Campurdarat", "Gondang", "Kalidawir", "Karangrejo", "Kauman", "Kedungwaru", "Ngantru", "Ngunut", "Pagerwojo", "Pakel", "Pucanglaban", "Rejotangan", "Sendang", "Sumbergempol", "Tanggung Gunung", "Tulungagung"],
+		"name": "Kab. Tulungagung"
+	}, {
+		"area": ["Bumiaji", "Junrejo"],
+		"name": "Kota Batu"
+	}, {
+		"area": ["Sananwetan", "Sukorejo"],
+		"name": "Kota Blitar"
+	}, {
+		"area": ["Mojoroto", "Pesantren"],
+		"name": "Kota Kediri"
+	}, {
+		"area": ["Madiun", "Manguharjo", "Taman"],
+		"name": "Kota Madiun"
+	}, {
+		"area": ["Kedungkandang", "Klojen", "Lowokwaru", "Malang", "Sukun"],
+		"name": "Kota Malang"
+	}, {
+		"area": ["Prajurit Kulon"],
+		"name": "Kota Mojokerto"
+	}, {
+		"area": ["Gadingrejo", "Panggungrejo", "Pasuruan", "Purworejo"],
+		"name": "Kota Pasuruan"
+	}, {
+		"area": ["Kademangan", "Kanigaran", "Kedopok", "Mayangan", "Wonoasih"],
+		"name": "Kota Probolinggo"
+	}, {
+		"area": ["Benowo", "Bubutan", "Bulak", "Dukuh Pakis", "Gayungan", "Genteng", "Gubeng", "Gununganyar", "Jambangan", "Karangpilang", "Kenjeran", "Krembangan", "Lakarsantri", "Mulyorejo", "Pabean Cantikan", "Pakal", "Rungkut", "Sambikerep", "Sawahan", "Semampir", "Simokerto", "Sukolilo", "Sukomanunggal", "Surabaya", "Tambaksari", "Tandes", "Tegalsari", "Tenggilis Mejoyo", "Wiyung", "Wonocolo", "Wonokromo"],
+		"name": "Kota Surabaya"
+	}]
+}, {
+	"name": "Kalimantan Barat",
+	"city": [{
+		"area": ["Bengkayang", "Capkala", "Jagoi Babang", "Ledo", "Lembah Bawang", "Lumar", "Monterado", "Samalantan", "Sanggau Ledo", "Seluas", "Siding", "Sungai Betung", "Sungai Raya", "Sungai Raya Kepulauan", "Suti Semarang", "Teriak", "Tujuh Belas"],
+		"name": "Kab. Bengkayang"
+	}, {
+		"area": ["Batang Lupar", "Bika", "Boyan Tanjung", "Bunut Hilir", "Bunut Hulu", "Embaloh Hilir", "Embaloh Hulu", "Empanang", "Hulu Gurung", "Jongkong", "Kalis", "Mentebah", "Pengkadan", "Pengkadan", "Puring Kencana", "Putussibau", "Putussibau Selatan (Kedamin)", "Putussibau Utara", "Seberuang", "Selimbau", "Semitau", "Silat Hilir", "Silat Hulu", "Suhaid"],
+		"name": "Kab. Kapuas Hulu"
+	}, {
+		"area": ["Pulau Maya", "Seponti", "Simpang Hilir", "Sukadana", "Teluk Batang"],
+		"name": "Kab. Kayong Utara"
+	}, {
+		"area": ["Benua Kayong", "Delta Pawan", "Hulu Sungai", "Jelai Hulu", "Kendawangan", "Ketapang", "Manis Mata", "Marau", "Matan Hilir Selatan", "Matan Hilir Utara", "Muara Pawan", "Nanga Tayap", "Pemaham", "Sandai", "Simpang Dua", "Simpang Hulu", "Singkup", "Sungai Laur", "Sungai Melayu Rayak", "Tumbang Titi"],
+		"name": "Kab. Ketapang"
+	}, {
+		"area": ["Kuala Mandor B.", "Kubu Raya", "Rasau Jaya", "Rasau Jaya", "Sui Ambawang", "Sungai Ambawang", "Sungai Kakap", "Sungai Kakap", "Sungai Raya", "Telok Pa'kedai", "Teluk Pakedai", "Terentang"],
+		"name": "Kab. Kubu Raya"
+	}, {
+		"area": ["Banyuke Hulu", "Jelimpo", "Kuala Behe", "Mandor", "Mempawah Hulu", "Menjalin", "Menyuke", "Meranti", "Ngabang", "Sebangki", "Sengah Temila", "Sompak"],
+		"name": "Kab. Landak"
+	}, {
+		"area": ["Belimbing Hulu", "Ella Hilir", "Menukung", "Nanga Pinoh", "Pinoh Selatan", "Pinoh Utara", "Sayan", "Sokan", "Tanah Pinoh", "Tanah Pinoh Barat"],
+		"name": "Kab. Melawi"
+	}, {
+		"area": ["Mempawah", "Mempawah Hilir", "Mempawah Timur", "Sadaniang", "Segedong", "Siantan/ Wajok", "Sungai Kunyit", "Sungai Pinyuh", "Sungai Raya", "Toho"],
+		"name": "Kab. Mempawah"
+	}, {
+		"area": ["Jawai", "Jawai Selatan", "Paloh", "Pemangkat", "Sajad", "Sajingan", "Sajingan Besar", "Salatiga", "Sambas", "Sebawi", "Sejangkung", "Selakau", "Selakau Timur", "Semparuk", "Subah", "Tanggaran", "Tebas", "Tekarang", "Teluk Keramat"],
+		"name": "Kab. Sambas"
+	}, {
+		"area": ["Beduwai", "Bonti", "Entikong", "Jangkang", "Kapuas", "Kembayan", "Meliau", "Mukok", "Noyan", "Parindu", "Sanggau", "Sekayam", "Tayan Hilir", "Tayan Hulu", "Toba"],
+		"name": "Kab. Sanggau"
+	}, {
+		"area": ["Belitang Hilir", "Belitang Hulu", "Nanga Mahap", "Nanga Taman", "Sekadau Hilir", "Sekadau Hulu"],
+		"name": "Kab. Sekadau"
+	}, {
+		"area": ["Binjai Hulu", "Dedai", "Kayan Hilir", "Kayan Hulu", "Kelam Permai", "Ketungau Hilir", "Ketungau Hulu", "Ketungau Tengah", "Sepauk", "Serawai", "Sintang", "Sungai Tebelian", "Tempunak"],
+		"name": "Kab. Sintang"
+	}, {
+		"area": ["Pontianak Barat", "Pontianak Kota", "Pontianak Selatan", "Pontianak Tenggara", "Pontianak Timur", "Pontianak Utara"],
+		"name": "Kota Pontianak"
+	}, {
+		"area": ["Singkawang Barat", "Singkawang Selatan", "Singkawang Tengah", "Singkawang Timur", "Singkawang Utara"],
+		"name": "Kota Singkawang"
+	}]
+}, {
+	"name": "Kalimantan Selatan",
+	"city": [{
+		"area": ["Awayan", "Batu Mandi", "Halong", "Juai", "Lampihong", "Paringin", "Paringin Selatan", "Tebing Tinggi"],
+		"name": "Kab. Balangan"
+	}, {
+		"area": ["Aranio", "Astambul", "Beruntung Baru", "Gambut", "Karang Intan", "Kertak Hanyar", "Martapura", "Martapura Barat", "Martapura Timur", "Mataraman", "Pengaron", "Peramasan", "Sambung Makmur", "Simpang Empat", "Sungai Pinang", "Sungai Tabuk", "Tatah Makmur", "Telaga Bauntung"],
+		"name": "Kab. Banjar"
+	}, {
+		"area": ["Anjir Muara", "Anjir Pasar", "Bakumpai", "Barambai", "Belawang", "Cerbon", "Jejangkit", "Kuripan", "Mandastana", "Marabahan", "Mekar Sari", "Rantau Badauh", "Tabukan", "Tabunganen", "Tamban", "Wanaraya"],
+		"name": "Kab. Barito Kuala"
+	}, {
+		"area": ["Daha Barat", "Daha Selatan", "Daha Utara", "Kalumpang", "Kandangan", "Loksado", "Padang Batung", "Simpur", "Sungai Raya", "Telaga Langsat"],
+		"name": "Kab. Hulu Sungai Selatan"
+	}, {
+		"area": ["Batang Alai Selatan", "Batang Alai Tengah", "Batang Alai Timur", "Batang Alai Utara", "Batu Benawa", "Hantakan", "Haruyan", "Labuan Amas Selatan", "Labuan Amas Utara", "Limpasu", "Pandawan"],
+		"name": "Kab. Hulu Sungai Tengah"
+	}, {
+		"area": ["Amuntai Selatan", "Amuntai Tengah", "Amuntai Utara", "Babirik", "Banjang", "Danau Panggang", "Haur Gading", "Paminggir", "Sungai Pandan", "Sungai Tabukan"],
+		"name": "Kab. Hulu Sungai Utara"
+	}, {
+		"area": ["Kelumpang Barat", "Kelumpang Hilir", "Kelumpang Hulu", "Kelumpang Selatan", "Kelumpang Tengah", "Kelumpang Utara", "Kota Baru", "Pamukan Barat", "Pamukan Selatan", "Pamukan Utara", "Pulau Laut Barat", "Pulau Laut Kepulauan", "Pulau Laut Selatan", "Pulau Laut Tanjung Selayar", "Pulau Laut Tengah", "Pulau Laut Timur", "Pulau Laut Utara", "Pulau Sebuku", "Pulau Sembilan", "Sampanahan", "Sungai Durian"],
+		"name": "Kab. Kotabaru"
+	}, {
+		"area": ["Bintang Ara", "Haruai", "Jaro", "Kelua", "Muara Harus", "Muara Uya", "Murung Pudak", "Pugaan", "Tanjung", "Tanta", "Upau"],
+		"name": "Kab. Tabalong"
+	}, {
+		"area": ["Batu Licin", "Karang Bintang", "Kuranji", "Kusan Hilir", "Kusan Hulu", "Mantewe", "Satui", "Simpang Empat", "sungai danau (desa)", "Sungai Loban"],
+		"name": "Kab. Tanah Bumbu"
+	}, {
+		"area": ["Bati Bati", "Batu Ampar", "Bumi Makmur", "Jorong", "Kintap", "Kurau", "Panyipatan", "Pelaihari", "Takisung", "Tambang Ulang"],
+		"name": "Kab. Tanah Laut"
+	}, {
+		"area": ["Binuang", "Bungur", "Candi Laras Selatan", "Candi Laras Utara", "Hatungun", "Lokpaikat", "Piani", "Rantau", "Salam Babaris", "Tapin Selatan", "Tapin Tengah", "Tapin Utara"],
+		"name": "Kab. Tapin"
+	}, {
+		"area": ["Banjar Baru Selatan", "Banjar Baru Utara", "Cempaka", "Landasan Ulin", "Liang Anggang"],
+		"name": "Kota Banjarbaru"
+	}, {
+		"area": ["Banjarmasin Barat", "Banjarmasin Selatan", "Banjarmasin Tengah", "Banjarmasin Timur", "Banjarmasin Utara"],
+		"name": "Kota Banjarmasin"
+	}]
+}, {
+	"name": "Kalimantan Tengah",
+	"city": [{
+		"area": ["Buntok", "Dusun Hilir", "Dusun Selatan", "Dusun Utara", "Gunung Bintang Awai", "Jenamas", "Karau Kuala"],
+		"name": "Kab. Barito Selatan"
+	}, {
+		"area": ["Benua Lima", "Dusun Tengah", "Dusun Timur", "Karusen Janang", "Paju Epat", "Paku", "Patangkep Tutui", "Pematang Karau", "Raren Batuah", "Tamiang Layang"],
+		"name": "Kab. Barito Timur"
+	}, {
+		"area": ["Gunung Timang", "Lahei", "Lahei Barat", "Montalat", "Muara Teweh", "Teweh Baru", "Teweh Selatan", "Teweh Tengah", "Teweh Timur"],
+		"name": "Kab. Barito Utara"
+	}, {
+		"area": ["Kahayan Hulu Utara", "Kurun", "Mahuning Raya", "Mihing Raya", "Miri Manasa", "Munuhing", "Rungan", "Rungan Barat", "Rungan Hulu", "Sepang Simin", "Tewah"],
+		"name": "Kab. Gunung Mas"
+	}, {
+		"area": ["Bataguh", "Dadahup", "Kapuas Barat", "Kapuas Hilir", "Kapuas Hulu", "Kapuas Kuala", "Kapuas Murung", "Kapuas Tengah", "Kapuas Timur", "Kuala Kapuas", "Mandau Talawang", "Mantangai", "Pasak Talawang", "Pulau Petak", "Selat", "Tamban Catur", "Timpah"],
+		"name": "Kab. Kapuas"
+	}, {
+		"area": ["Kamipang", "Kasongan", "Katingan Hilir", "Katingan Hulu", "Katingan Kuala", "Katingan Tengah", "Marikit", "Mendawai", "Petak Malai", "Pulau Malan", "Sanaman Mantikei", "Tasik Payawan", "Tewang Sangalang Garing"],
+		"name": "Kab. Katingan"
+	}, {
+		"area": ["Arut Utara", "Kotawaringin Lama", "Kumai", "Pangkalan Banteng", "Pangkalan Bun", "Pangkalan Lada"],
+		"name": "Kab. Kotawaringin Barat"
+	}, {
+		"area": ["Baamang", "Bukit Santuei", "Cempaga", "Cempaga Hulu", "Kota Besi", "Mentawa Baru", "Mentawa Baru Ketapang", "Mentaya Hilir Selatan", "Mentaya Hilir Utara", "Mentaya Hulu", "Parenggean", "Pulau Hanaut", "Sampit", "Seranau", "Telaga Antang", "Telawang", "Teluk Sampit", "Tualan Hulu"],
+		"name": "Kab. Kotawaringin Timur"
+	}, {
+		"area": ["Belantikan Raya", "Bulik", "Bulik Timur", "Delang", "Lamandau", "Menthobi Raya", "Nanga Bulik", "Sematu Jaya"],
+		"name": "Kab. Lamandau"
+	}, {
+		"area": ["Laung Tuhup", "Murung", "Permata Intan", "Puruk Cahu", "Seribu Riam", "Sumber Barito", "Sungai Babuat", "Tanah Siang", "Tanah Siang Selatan", "Uut Murung"],
+		"name": "Kab. Murung Raya"
+	}, {
+		"area": ["Jabiren", "Kahayan Hilir", "Kahayan Kuala", "Kahayan Tengah", "Maliku", "Pandih Batu", "Pulang Pisau", "Sebangau Kuala"],
+		"name": "Kab. Pulang Pisau"
+	}, {
+		"area": ["Danau Seluluk", "Danau Sembuluh", "Hanau", "Kuala Pembuang", "Seruyan Hilir", "Seruyan Hilir Timur", "Seruyan Hulu", "Seruyan Raya", "Seruyan Tengah", "Suling Tambun"],
+		"name": "Kab. Seruyan"
+	}, {
+		"area": ["Jelai", "Pantai Lunci", "Permata Kecubung", "Sukamara"],
+		"name": "Kab. Sukamara"
+	}, {
+		"area": ["Jekan Raya", "Pahandut", "Palangkaraya", "Rakumpit", "Sebangau"],
+		"name": "Kota Palangkaraya"
+	}]
+}, {
+	"name": "Kalimantan Timur",
+	"city": [{
+		"area": ["Batu Putih", "Biatan", "Biduk Biduk", "Gunung Tabur", "Kelay", "Maratua", "Pulau Derawan", "Sambaliung", "Segah", "Tabalar", "Talisayan", "Tanjung Redeb", "Teluk Bayur"],
+		"name": "Kab. Berau"
+	}, {
+		"area": ["Bentian Besar", "Bongan", "Damai", "Jempang", "Linggang Bigung", "Long Iram", "Melak", "Mook Manaar Bulatn", "Muara Lawa", "Muara Pahu", "Nyuwatan", "Penyinggahan", "Sekolaq Darat", "Sendawar", "Siluq Ngurai", "Tering"],
+		"name": "Kab. Kutai Barat"
+	}, {
+		"area": ["Kembang Janggut", "Kenohan", "Kota Bangun", "Loa Janan", "Loa Kulu", "Marang Kayu", "Muara Badak", "Muara Jawa", "Muara Kaman", "Muara Muntai", "Muara Wis", "Samboja", "Sanga-Sanga", "Sebulu", "Tabang", "Tenggarong", "Tenggarong Seberang"],
+		"name": "Kab. Kutai Kartanegara"
+	}, {
+		"area": ["Bengalon", "Busang", "Kaliorang", "Karangan", "Kaubun", "Kombeng", "Long Mesangat", "Muara Ancalong", "Muara Bengkal", "Muara Wahau", "Rantau Pulung", "Sandaran", "Sangatta", "Sangatta Selatan", "Sangatta Utara", "Sangkulirang", "Telen", "Teluk Pandan"],
+		"name": "Kab. Kutai Timur"
+	}, {
+		"area": ["Long Apari", "Long Bagun", "Long Hubung", "Long Pahangai"],
+		"name": "Kab. Mahakam Ulu"
+	}, {
+		"area": [],
+		"name": "Kab. Malinau"
+	}, {
+		"area": ["Batu Sopang", "Kuaro", "Long Ikis", "Long Kali", "Muara Komam", "Muara Samu", "Pasir Balengkong", "Tanah Grogot", "Tanjung Harapan"],
+		"name": "Kab. Paser"
+	}, {
+		"area": ["Penajam", "Sepaku", "Waru"],
+		"name": "Kab. Penajam Paser Utara"
+	}, {
+		"area": ["Balikpapan Barat", "Balikpapan Selatan", "Balikpapan Tengah", "Balikpapan Timur", "Balikpapan Utara"],
+		"name": "Kota Balikpapan"
+	}, {
+		"area": ["Bontang Barat", "Bontang Selatan", "Bontang Utara"],
+		"name": "Kota Bontang"
+	}, {
+		"area": ["Palaran", "Samarinda Ilir", "Samarinda Kota", "Samarinda Seberang", "Samarinda Ulu", "Samarinda Utara", "Sambutan", "Sungai Kunjang", "Sungai Pinang"],
+		"name": "Kota Samarinda"
+	}]
+}, {
+	"name": "Kalimantan Utara",
+	"city": [{
+		"area": ["Peso", "Peso Hilir", "Pulau Bunyu", "Sekatak", "Tanjung Palas", "Tanjung Palas Barat", "Tanjung Palas Tengah", "Tanjung Palas Timur", "Tanjung Palas Utara", "Tanjung Selor"],
+		"name": "Kab. Bulungan"
+	}, {
+		"area": ["Kayan Hilir", "Kayan Hulu", "Kayan Selatan", "Malinau Barat", "Malinau Kota", "Malinau Selatan", "Malinau Selatan Hilir", "Malinau Selatan Hulu", "Malinau Utara", "Mentarang", "Mentarang Hulu", "Pujungan", "Sungai Boh", "Sungai Tubu"],
+		"name": "Kab. Malinau"
+	}, {
+		"area": ["Krayan Selatan", "Lumbis", "Lumbis Ogong", "Nunukan", "Nunukan Selatan", "Sebatik", "Sebatik Barat", "Sebatik Tengah", "Sebatik Timur", "Sebatik Utara", "Sebuku", "Sei Menggaris", "Sembakung", "Sembakung Atulai", "Tulin Onsoi"],
+		"name": "Kab. Nunukan"
+	}, {
+		"area": ["Muruk Rian", "Sesayap", "Sesayap Hilir", "Tanah Lia", "Tanah Tidung"],
+		"name": "Kab. Tana Tidung"
+	}, {
+		"area": ["Tarakan Barat", "Tarakan Tengah", "Tarakan Timur", "Tarakan Utara"],
+		"name": "Kota Tarakan"
+	}]
+}, {
+	"name": "Kepulauan Bangka Belitung",
+	"city": [{
+		"area": ["Bakam", "Belinyu", "Mendo Barat", "Merawang", "Pemali", "Puding Besar", "Riau Silip", "Sungailiat"],
+		"name": "Kab. Bangka"
+	}, {
+		"area": ["Kelapa", "Mentok", "Parittiga", "Simpang Teritip", "Tempilang"],
+		"name": "Kab. Bangka Barat"
+	}, {
+		"area": ["Kepulauan Pongok", "Lepar Pongok", "Payung", "Pulau Besar", "Simpang Rima", "Toboali", "Tukak Sadai"],
+		"name": "Kab. Bangka Selatan"
+	}, {
+		"area": ["Lubuk Besar", "Namang", "Pangkalan Baru", "Simpang Katis", "Sungai Selan"],
+		"name": "Kab. Bangka Tengah"
+	}, {
+		"area": ["Membalong", "Selat Nasik", "Sijuk", "Tanjung Pandan"],
+		"name": "Kab. Belitung"
+	}, {
+		"area": ["Dendang", "Gantung", "Kelapa Kampit", "Manggar", "Simpang Pesak", "Simpang Renggiang"],
+		"name": "Kab. Belitung Timur"
+	}, {
+		"area": ["Gabek", "Gerunggang", "Girimaya", "Pangkal Balam", "Pangkal Pinang", "Rangkui", "Taman Sari"],
+		"name": "Kota Pangkal Pinang"
+	}]
+}, {
+	"name": "Kepulauan Riau",
+	"city": [{
+		"area": ["Bandar Seri Bintan", "Bintan Pesisir", "Bintan Timur", "Bintan Utara", "Gunung Kijang", "Mantang", "Seri Kuala Lobam", "Tambelan", "Teluk Bintan", "Teluk Sebong", "Toapaya"],
+		"name": "Kab. Bintan"
+	}, {
+		"area": ["Buru", "Durai", "Karimun", "Kundur", "Kundur Barat", "Kundur Utara", "Meral", "Meral Barat", "Moro", "Tanjung Balai Karimun", "Tebing", "Ungar"],
+		"name": "Kab. Karimun"
+	}, {
+		"area": ["Jemaja Timur", "Pal Matak", "Siantan", "Siantan Selatan", "Siantan Tengah", "Siantan Timur"],
+		"name": "Kab. Kepulauan Anambas"
+	}, {
+		"area": ["Kepulauan Posek", "Lingga", "Lingga Timur", "Lingga Utara", "Selayar", "Senayang", "Singkep", "Singkep Barat", "Singkep Pesisir", "Singkep Selatan"],
+		"name": "Kab. Lingga"
+	}, {
+		"area": ["Bunguran Batubi", "Bunguran Selatan", "Bunguran Tengah", "Bunguran Timur", "Bunguran Timur Laut", "Bunguran Utara", "Midai", "Pulau Laut", "Pulau Tiga", "Pulau Tiga Barat", "Ranai", "Serasan", "Serasan Timur", "Suak Midai", "Subi"],
+		"name": "Kab. Natuna"
+	}, {
+		"area": ["Batu Aji", "Batu Ampar", "Belakang Padang", "Bengkong", "Bulang", "Galang", "Lubuk Baja", "Nongsa", "Sagulung", "Sei Beduk", "Sekupang"],
+		"name": "Kota Batam"
+	}, {
+		"area": ["Tanjung Pinang", "Tanjung Pinang Barat", "Tanjung Pinang Kota", "Tanjung Pinang Timur"],
+		"name": "Kota Tanjung Pinang"
+	}]
+}, {
+	"name": "Lampung",
+	"city": [{
+		"area": ["Air Hitam", "Balik Bukit", "Bandar Negeri Suoh", "Batu Brak", "Batu Ketulis", "Belalau", "Gedung Surian", "Kebun Tebu", "Liwa", "Lumbok Seminung", "Pagar Dewa", "Sekincau", "Sukau", "Sumber Jaya", "Suoh", "Way Tenong"],
+		"name": "Kab. Lampung Barat"
+	}, {
+		"area": ["Candipuro", "Jati Agung", "Kalianda", "Katibung", "Ketapang", "Merbau Mataram", "Natar", "Palas", "Penengahan", "Rajabasa", "Sidomulyo", "Sragi", "Tanjung Bintang", "Tanjungsari", "Way Panji", "Way Sulan"],
+		"name": "Kab. Lampung Selatan"
+	}, {
+		"area": ["Anak Tuha", "Bandar Jaya", "Bandar Mataram", "Bandar Surabaya", "Bangunrejo", "Bekri", "Bumi Nabung", "Bumi Ratu Nuban", "Gunung Sugih", "Kalirejo", "Kota Gajah", "Padang Ratu", "Pubian", "Punggur", "Putra Rumbia", "Rumbia", "Selagai Lingga", "Sendang Agung", "Seputih Agung", "Seputih Banyak", "Seputih Mataram", "Seputih Raman", "Seputih Surabaya", "Terbanggi Besar", "Terusan Nunyai", "Trimurjo", "Way Pengubuan", "Way Seputih"],
+		"name": "Kab. Lampung Tengah"
+	}, {
+		"area": ["Batanghari", "Batanghari Nuban", "Braja Slebah", "Bumi Agung", "Gunung Pelindung", "Jabung", "Labuhan Maringgai", "Labuhan Ratu", "Marga Sekampung", "Margatiga", "Mataram Baru", "Melinting", "Metro Kibang", "Pasir Sakti", "Pekalongan", "Purbolinggo", "Raman Utara", "Sekampung", "Sekampung Udik", "Sukadana", "Waway Karya", "Way Bungur", "Way Jepara"],
+		"name": "Kab. Lampung Timur"
+	}, {
+		"area": ["Abung Kunang", "Abung Pekurun", "Abung Selatan", "Abung Semuli", "Abung Surakarta", "Abung Tengah", "Abung Timur", "Abung Tinggi", "Blambangan Pagar", "Bukit Kemuning", "Bunga Mayang", "Hulu Sungkai", "Kotabumi", "Kotabumi Selatan", "Kotabumi Utara", "Muara Sungkai", "Sungkai Barat", "Sungkai Jaya", "Sungkai Selatan", "Sungkai Tengah", "Sungkai Utara", "Tanjung Raja"],
+		"name": "Kab. Lampung Utara"
+	}, {
+		"area": ["Mesuji Timur", "Panca Jaya", "Rawajitu Utara", "Simpang Pematang", "Tanjung Raya", "Way Serdang"],
+		"name": "Kab. Mesuji"
+	}, {
+		"area": ["Kedondong", "Marga Punduh", "Negeri Katon", "Padang Cermin", "Punduh Pidada", "Tegineneng", "Teluk Pandan", "Way Khilau", "Way Lima", "Way Ratai"],
+		"name": "Kab. Pesawaran"
+	}, {
+		"area": ["Bengkunat Belimbing", "Karya Penggawa", "Krui Selatan", "Lemong", "Ngambur", "Pesisir Selatan", "Pesisir Tengah", "Pesisir Utara", "Pulau Pisang", "Way Krui"],
+		"name": "Kab. Pesisir Barat"
+	}, {
+		"area": ["Ambarawa", "Banyumas", "Gading Rejo", "Pagelaran", "Pagelaran Utara", "Pardasuka", "Pringsewu", "Sukoharjo"],
+		"name": "Kab. Pringsewu"
+	}, {
+		"area": ["Bandar Negeri Semuong", "Bulok", "Cukup Balak", "Gisting", "Gunung Alip", "Kelumbayan", "Kelumbayan Barat", "Kota Agung", "Kota Agung Barat", "Kota Agung Timur", "Limau", "Pematang Sawa", "Pugung", "Pulau Panggung", "Semaka", "Sumberejo", "Talang Padang", "Ulubelu", "Wonosobo"],
+		"name": "Kab. Tanggamus"
+	}, {
+		"area": ["Banjar Baru", "Banjar Margo", "Dente Teladas", "Gedung Aji", "Gedung Aji Baru", "Gedung Meneng", "Menggala", "Menggala Timur", "Meraksa Aji", "Penawar Aji", "Penawar Tama", "Rawajitu Selatan", "Rawajitu Timur", "Rawa Pitu"],
+		"name": "Kab. Tulang Bawang"
+	}, {
+		"area": ["Gunung Terang", "Lambu Kibang", "Pagar Dewa", "Tulang Bawang Tengah", "Tulang Bawang Udik", "Tumijajar", "Way Kenanga"],
+		"name": "Kab. Tulang Bawang Barat"
+	}, {
+		"area": ["Banjit", "Baradatu", "Blambangan", "Blambangan Umpu", "Buay Bahuga", "Bumi Agung", "Gunung Labuhan", "Kasui", "Negara Batin", "Negeri Agung", "Negeri Besar", "Pakuan Ratu", "Rebang Tangkas", "Way Tuba"],
+		"name": "Kab. Way Kanan"
+	}, {
+		"area": ["Bumi Waras", "Enggal", "Kedamaian", "Kedaton", "Kemiling", "Labuhan Ratu", "Langkapura", "Panjang", "Rajabasa", "Sukabumi", "Sukarame", "Tanjung Karang Barat", "Tanjung Karang Pusat", "Tanjung Karang Timur", "Tanjung Senang", "Teluk Betung Barat", "Teluk Betung Selatan", "Teluk Betung Timur", "Teluk Betung Utara", "Way Halim"],
+		"name": "Kota Bandar Lampung"
+	}, {
+		"area": ["Metro Barat", "Metro Pusat", "Metro Selatan", "Metro Timur", "Metro Utara"],
+		"name": "Kota Metro"
+	}]
+}, {
+	"name": "Maluku",
+	"city": [{
+		"area": ["Air Buaya", "Batabual", "Fena Leisela", "Lilialy", "Lolong Guba", "Namlea", "Teluk Kaiely", "Waelata", "Waplau", "Wayapo / Buru Utara Timur"],
+		"name": "Kab. Buru"
+	}, {
+		"area": ["Fena Fafan", "Kepala Madan", "Leksula", "Namrole", "Waesama"],
+		"name": "Kab. Buru Selatan"
+	}, {
+		"area": ["Aru Selatan Timur", "Aru Selatan Utara", "Aru Tengah", "Aru Tengah Selatan", "Aru Tengah Timur", "Aru Utara", "Aru Utara Timur Batuley", "Dobo", "Pulau-Pulau Aru", "Sir-Sir"],
+		"name": "Kab. Kepulauan Aru"
+	}, {
+		"area": ["Dawelor Dawera", "Kepulauan Romang", "Kisar Utara", "Mndona Hiera", "Moa Lakor", "Pulau Lakor", "Pulau Letti", "Pulau Masela", "Pulau-Pulau Babar", "Pulau-Pulau Babar Timur", "Pulau-Pulau Terselatan", "Pulau Wetang", "Wetar", "Wetar Barat", "Wetar Timur", "Wetar Utara"],
+		"name": "Kab. Maluku Barat Daya"
+	}, {
+		"area": ["Banda", "Kota Masohi", "Leihitu", "Leihitu Barat", "Nusa Laut", "Pulau Haruku", "Sala Hutu", "Saparua", "Saparua Timur", "Seram Utara", "Seram Utara Barat", "Seram Utara Timur Kobi", "Seram Utara Timur Seti", "Tehoru", "Teluk Elpaputih", "Telutih", "Teon Nila Serua"],
+		"name": "Kab. Maluku Tengah"
+	}, {
+		"area": ["Kei Besar", "Kei Besar Selatan", "Kei Besar Selatan Barat", "Kei Besar Utara Barat", "Kei Besar Utara Timur", "Kei Kecil", "Kei Kecil Barat", "Kei Kecil Timur", "Kei Kecil Timur Selatan", "Manyeuw", "Pulau Dullah Selatan", "Tual"],
+		"name": "Kab. Maluku Tenggara"
+	}, {
+		"area": ["Luser", "Mola", "Molu Maru", "Nirunmas", "Pulau-Pulau Letimoa Lakor", "Saumlaki", "Selaru", "Serwaru", "Tanimbar Selatan", "Tanimbar Utara", "Wer Makatian", "Wertamrian", "Wuarlabobar", "Yaru"],
+		"name": "Kab Maluku Tenggara Barat"
+	}, {
+		"area": ["Elpaputih", "Huamual", "Huamual Belakang", "Inamosol", "Kairatu", "Kairatu Barat", "Kepulauan Manipa", "Seram Barat", "Taniwel", "Taniwel Timur", "Waisala"],
+		"name": "Kab. Seram Bagian Barat"
+	}, {
+		"area": ["Bula Barat", "Dataran Hunimoa", "Gorom Timur", "Kian Darat", "Kilmury", "Pulau Gorom", "Pulau Panjang", "Pulau-Pulau Gorong", "Seram Timur", "Siritaun Wida Timur", "Siwalalat", "Teluk Waru", "Teor", "Tutuk Tolu", "Wakate", "Werinama"],
+		"name": "Kab. Seram Bagian Timur"
+	}, {
+		"area": ["Baguala", "Leitimur Selatan", "Nusaniwe", "Sirimau", "Teluk Ambon"],
+		"name": "Kota Ambon"
+	}, {
+		"area": ["Pulau Dullah Selatan", "Pulau Dullah Utara", "Pulau-Pulau Kur", "Tayando Tam"],
+		"name": "Kota Tual"
+	}]
+}, {
+	"name": "Maluku Utara",
+	"city": [{
+		"area": ["Ibu", "Ibu Selatan", "Ibu Utara", "Jailolo", "Jailolo Selatan", "Loloda", "Sahu", "Sahu Timur"],
+		"name": "Kab. Halmahera Barat"
+	}, {
+		"area": ["Bacan Barat", "Bacan Barat Utara", "Bacan Selatan", "Bacan Timur", "Bacan Timur Selatan", "Bacan Timur Tengah", "Gane Barat", "Gane Barat Selatan", "Gane Barat Utara", "Gane Timur", "Gane Timur Selatan", "Gane Timur Tengah", "Kasiruta Barat", "Kasiruta Timur", "Kayoa", "Kayoa Barat", "Kayoa Selatan", "Kayoa Utara", "Kepulauan Botanglomang", "Kepulauan Joronga", "Labuha", "Makian Barat", "Mandioli Selatan", "Mandioli Utara", "Obi", "Obi Barat", "Obi Selatan", "Obi Timur", "Obi Utara", "Pulau Makian"],
+		"name": "Kab. Halmahera Selatan"
+	}, {
+		"area": ["Patani Barat", "Patani Timur", "Patani Utara", "Pulau Gebe", "Weda", "Weda Selatan", "Weda Tengah", "Weda Timur", "Weda Utara"],
+		"name": "Kab. Halmahera Tengah"
+	}, {
+		"area": ["Maba", "Maba Selatan", "Maba Tengah", "Maba Utara", "Wasile", "Wasile Selatan", "Wasile Tengah", "Wasile Timur", "Wasile Utara"],
+		"name": "Kab. Halmahera Timur"
+	}, {
+		"area": ["Galela Barat", "Galela Selatan", "Galela Utara", "Kao", "Kao Barat", "Kao Teluk", "Kao Utara", "Loloda Kepulauan", "Loloda Utara", "Malifut", "Tobelo", "Tobelo Barat", "Tobelo Selatan", "Tobelo Tengah", "Tobelo Timur", "Tobelo Utara"],
+		"name": "Kab. Halmahera Utara"
+	}, {
+		"area": ["Mangoli Selatan", "Mangoli Tengah", "Mangoli Timur", "Mangoli Utara", "Mangoli Utara Timur", "Nggele", "Sanana", "Sanana Utara", "Sula Besi Barat", "Sulabesi Selatan", "Sulabesi Tengah", "Sulabesi Timur"],
+		"name": "Kab. Kepulauan Sula"
+	}, {
+		"area": ["Morotai Selatan", "Morotai Selatan Barat", "Morotai Timur", "Morotai Utara"],
+		"name": "Kab. Pulau Morotai"
+	}, {
+		"area": ["Tabona", "Taliabu Barat", "Taliabu Barat Laut", "Taliabu Selatan", "Taliabu Timur", "Taliabu Timur Selatan", "Taliabu Utara"],
+		"name": "Kab. Pulau Taliabu"
+	}, {
+		"area": ["Kota Ternate Tengah", "Kota Ternate Utara", "Pulau Batang Dua", "Pulau Hiri", "Pulau Moti", "Pulau Ternate", "Ternate"],
+		"name": "Kota Ternate"
+	}, {
+		"area": ["Oba Selatan", "Oba Tengah", "Oba Utara", "Tidore", "Tidore Selatan", "Tidore Timur", "Tidore Utara"],
+		"name": "Kota Tidore Kepulauan"
+	}]
+}, {
+	"name": "Nusa Tenggara Barat",
+	"city": [{
+		"area": ["Ambalawi", "Belo", "Bolo", "Donggo", "Lambitu", "Lambu", "Langgudu", "Mada Pangga", "Monta", "Palibelo", "Parado", "Sanggar", "Sape", "Soromandi", "Tambora", "Wawo", "Wera", "Woha"],
+		"name": "Kab. Bima"
+	}, {
+		"area": ["Hu'u", "Kempo", "Kilo", "Manggelewa", "Pajo", "Pekat", "Woja"],
+		"name": "Kab. Dompu"
+	}, {
+		"area": ["Gerung", "Gunung Sari", "Kediri", "Kuripan", "Labu Api", "Lembar", "Lingsar", "Narmada", "Sekotong"],
+		"name": "Kab. Lombok Barat"
+	}, {
+		"area": ["Batukliang Utara", "Janapria", "Jonggat", "Kopang", "Praya", "Praya Barat", "Praya Barat Daya", "Praya Tengah", "Praya Timur", "Pringgarata", "Pujut"],
+		"name": "Kab. Lombok Tengah"
+	}, {
+		"area": ["Jerowaru", "Keruak", "Labuhan Haji", "Mas Bagik", "Montong Gading", "Pringgabaya", "Pringgasela", "Sakra", "Sakra Barat", "Sakra Timur", "Sambelia", "Selong", "Sembalun", "Sikur", "Suela", "Sukamulia", "Suralaga", "Terara", "Wanasaba"],
+		"name": "Kab. Lombok Timur"
+	}, {
+		"area": ["Gangga", "Kayangan", "Pemenang", "Tanjung"],
+		"name": "Kab. Lombok Utara"
+	}, {
+		"area": ["Alas Barat", "Batu Lanteh", "Buer", "Empang", "Labangka", "Labuhan Badas", "Lantung", "Lape", "Lenangguar", "Lopok", "Lunyuk", "Maronge", "Moyohilir", "Moyohulu", "Moyo Utara", "Orong Telu", "Plampang", "Rhee", "Ropang", "Sumbawa", "Sumbawa Besar", "Tarano", "Unter Iwes", "Utan"],
+		"name": "Kab. Sumbawa"
+	}, {
+		"area": ["Brang Rea", "Jereweh", "Maluk", "Poto Tano", "Sekongkang", "Seteluk", "Taliwang"],
+		"name": "Kab. Sumbawa Barat"
+	}, {
+		"area": ["Bima", "Mpunda", "Raba", "Rasanae Barat", "Rasanae Timur"],
+		"name": "Kota Bima"
+	}, {
+		"area": ["Cakranegara", "Mataram", "Sandubaya", "Sekarbela", "Selaparang"],
+		"name": "Kota Mataram"
+	}]
+}, {
+	"name": "Nusa Tenggara Timur",
+	"city": [{
+		"area": ["Alor Barat Daya", "Alor Barat Laut", "Alor Selatan", "Alor Tengah Utara", "Alor Timur", "Alor Timur Laut", "Kabola", "Lembur", "Mataru", "Pantar", "Pantar Barat", "Pantar Baru Laut", "Pantar Tengah", "Pantar Timur", "Pulau Pura", "Pureman", "Teluk Mutiara"],
+		"name": "Kab. Alor"
+	}, {
+		"area": ["Atambua Selatan", "Kakuluk Mesak", "Kota Atambua", "Lamakmen", "Lamaknen Selatan", "Lasiolat", "Nanaet Duabesi", "Raihat", "Raimanuk", "Tasefeto Barat", "Tasifeto Timur"],
+		"name": "Kab. Belu"
+	}, {
+		"area": ["Detusoko", "Ende", "Ende Selatan", "Ende Tengah", "Ende Timur", "Ende Utara", "Kelimutu", "Kotabaru", "Lepembusu Kelisoke", "Lio Timur", "Maukaro", "Maurole", "Nanga Panda", "Ndona", "Ndona Timur", "Ndori", "Pulau Ende", "Wewaria", "Wolojita", "Wolo Waru"],
+		"name": "Kab. Ende"
+	}, {
+		"area": ["Adonara Barat", "Adonara Tengah", "Adonara Timur", "Demon Pagong", "Ile Boleng", "Ile Bura", "Ile Mandiri", "Kelubagolit", "Larantuka", "Lewolema", "Solor Barat", "Solor Selatan", "Solor Timur", "Tanjung Bunga", "Titihena", "Witihama", "Wotan Ulu mado", "Wulanggitan"],
+		"name": "Kab. Flores Timur"
+	}, {
+		"area": ["Amabioefeto Timur", "Amarasi", "Amarasi Barat", "Amarasi Selatan", "Amarasi Timur", "Amfoang Barat Daya", "Amfoang Barat Laut", "Amfoang Selatan", "Amfoang Tengah", "Amfoang Timur", "Amfoang Utara", "Fatuleu", "Fatuleu Barat", "Fatuleu Tengah", "Kupang Barat", "Kupang Tengah", "Kupang Timur", "Nekemese", "Semau", "Semau Selatan", "Sulamu", "Taebenu", "Takari"],
+		"name": "Kab. Kupang"
+	}, {
+		"area": ["Buyasuri", "Ile Ape", "Ile Ape Timur", "Lebatukan", "Lembata", "Nagawutung", "Nubatukan", "Omesuri", "Wulandoni"],
+		"name": "Kab. Lembata"
+	}, {
+		"area": ["Io Kufeu", "Kobalima", "Kobalima Timur", "Laenmanen", "Malaka Barat", "Malaka Tengah", "Malaka Timur", "Rinhat", "Sasita Mean", "Weliman", "Wewiku"],
+		"name": "Kab. Malaka"
+	}, {
+		"area": ["Cibal Barat", "Komba", "Langke Rembong", "Lelak", "Rahong Utara", "Reo", "Reok Barat", "Ruteng", "Satarmese", "Satar Mese Barat", "Wae Rii"],
+		"name": "Kab. Manggarai"
+	}, {
+		"area": ["Komodo", "Kuwus", "Labuan Bajo", "Lembor", "Lembor Selatan", "Macang Pacar", "Mbeliling", "Ndoso", "Sanonggoang", "Welak"],
+		"name": "Kab. Manggarai Barat"
+	}, {
+		"area": ["Elar", "Elar Selatan", "Kota Komba", "Lamba Leda", "Poco Ranaka", "Poco Ranaka Timur", "Rana Mese", "Sambi Rampas"],
+		"name": "Kab. Manggarai Timur"
+	}, {
+		"area": ["Aesesa Selatan", "Boawae", "Keo Tengah", "Mauponggo", "Nangaroro", "Wolo Wae"],
+		"name": "Kab. Nagekeo"
+	}, {
+		"area": ["Bajawa", "Bajawa Utara", "Golewa", "Golewa Barat", "Golewa Selatan", "Inerie", "Jere Buu", "Riung", "Riung Barat", "Soa", "Wolomeze"],
+		"name": "Kab. Ngada"
+	}, {
+		"area": ["Landu Leko", "Lobalain", "Ndao Nuse", "Pantai Baru", "Rote Barat", "Rote Barat Daya", "Rote Barat Laut", "Rote Selatan", "Rote Tengah", "Rote Timur"],
+		"name": "Kab. Rote Ndao"
+	}, {
+		"area": ["Raijua", "Sabu Barat", "Sabu Liae", "Sabu Tengah", "Sabu Timur"],
+		"name": "Kab. Sabu Raijua"
+	}, {
+		"area": ["Alok Barat", "Alok Timur", "Bola", "Doreng", "Hewokloang", "Kangae", "Kewapante", "Koting", "Lela", "Magepanda", "Mapitara", "Mego", "Nelle", "Nitta", "Paga", "Palue", "Talibura", "Tana Wawo", "Waiblama", "Waigete"],
+		"name": "Kab. Sikka"
+	}, {
+		"area": ["Lamboya", "Lamboya Barat", "Loli", "Tana Righu", "Wanokaka"],
+		"name": "Kab. Sumba Barat"
+	}, {
+		"area": ["Kodi Balaghar", "Kodi Bangedo", "Kodi Utara", "Kota Tambolaka", "Laura", "Wewewa Barat", "Wewewa Selatan", "Wewewa Tengah", "Wewewa Timur", "Wewewa Utara"],
+		"name": "Kab. Sumba Barat Daya"
+	}, {
+		"area": ["Katikutana Selatan", "Mamboro", "Umbu Ratu Nggay", "Umbu Ratu Nggay Barat"],
+		"name": "Kab. Sumba Tengah"
+	}, {
+		"area": ["Kahaungu Eti", "Kambata Mapambuhang", "Kambera", "Kanatang", "Karera", "Katala Hamu Lingu", "Lewa", "Lewa Tidahu", "Mahu", "Matawai Lapau", "Ngadu Ngala", "Nggaha Oriangu", "Paberiwai", "Pahunga Lodu", "Pandawai", "Pinu Pahar", "Rindi", "Tabundung", "Umalulu", "Waingapu", "Wulla Waijelu"],
+		"name": "Kab. Sumba Timur"
+	}, {
+		"area": ["Amanatun Tengah", "Amanatun Timur", "Amanatun Utara", "Amanuban Barat", "Amanuban Selatan", "Amanuban Tengah", "Amanuban Timur", "Batu Putih", "Boking", "Fatukopa", "Fatumnasi", "Fautmolo", "Kalbano", "Kie", "Kok Baun", "Kolbano", "Kota Soe", "Kot'olin", "Kualin", "Kuan Fatu", "Kuatnana", "Mollo Barat", "Mollo Selatan", "Mollo Tengah", "Mollo Utara", "Noebana", "Noebeba", "Nunbena", "Nunkolo", "Oenino", "Polen", "Santian", "Tobu", "Toianas"],
+		"name": "Kab. Timor Tengah Selatan"
+	}, {
+		"area": ["Biboki Feotleu", "Biboki Moenleu", "Biboki Selatan", "Biboki Tan Pah", "Biboki Utara", "Bikomi Nilulat", "Bikomi Selatan", "Bikomi Tengah", "Bikomi Utara", "Insana", "Insana Barat", "Insana Fafinesu", "Insana Tengah", "Insana Utara", "Kota Kefamenanu", "Miomafo Barat", "Miomafo Tengah", "Miomafo Timur", "Musi", "Mutis", "Naibenu", "Neomuti", "Noemuti Timur"],
+		"name": "Kab. Timor Tengah Utara"
+	}, {
+		"area": ["Kelapa Lima", "Kota Lama", "Kota Raja", "Kupang", "Maulafa", "Oebobo"],
+		"name": "Kota Kupang"
+	}]
+}, {
+	"name": "Papua",
+	"city": [{
+		"area": ["Agats", "Akat", "Atsy", "Ayip", "Betcbamu", "Der Koumur", "Fayit", "Jetsy", "Joerat", "Kolf Braza", "Kopay", "Pantai Kasuari", "Pulau Tiga", "Safan", "Sawaerma", "Sirets", "Suator", "Suru-suru", "Unir Sirau"],
+		"name": "Kab. Asmat"
+	}, {
+		"area": ["Andey", "Biak Barat", "Biak Kota", "Biak timur", "Biak Utara", "Bondifuar", "Bruyadori", "Numfor Barat", "Numfor Timur", "Oridek", "Orkeri", "Padaido", "Poiru", "Samofa", "Swandiwe", "Warsa", "Yawosi", "Yendidori"],
+		"name": "Kab. Biak Numfor"
+	}, {
+		"area": ["Arimop", "Bomakia", "Firiwage", "Fofi", "Iniyandit", "Jair", "Kawagit", "Ki", "Kombay", "Kombut", "Kouh", "Mandobo", "Manggelum", "Mindiptana", "Ninati", "Sesnuk", "Subur", "Tanah Merah/ Boven Digoel", "Waropko", "Yaniruma"],
+		"name": "Kab. Boven Digoel"
+	}, {
+		"area": ["Kapiraya", "Tigi", "Tigi Barat", "Tigi Timur"],
+		"name": "Kab. Deiyai"
+	}, {
+		"area": ["Kamu", "Kamu Selatan", "Kamu Timur", "Kamu Utara", "Mapia", "Mapia Barat", "Mapia Tengah", "Piyaiye", "Sukikai Selatan"],
+		"name": "Kab. Dogiyai"
+	}, {
+		"area": ["Biandoga", "Hitadipa", "Homeyo", "Sugapa", "Tomosiga", "Ugimba", "Wandai"],
+		"name": "Kab. Intan Jaya"
+	}, {
+		"area": ["Demta", "Depapre", "Ebungfau", "Gresi Selatan", "Jayapura", "Kareuh", "Kemtuk", "Kemtuk Gresie", "Nambluong", "Nimbokrang", "Nimboran", "Ravenirara", "Sentani", "Sentani Barat", "Sentani Timur", "Unurum Guay", "Waibu", "Yapsi", "Yokari"],
+		"name": "Kab. Jayapura"
+	}, {
+		"area": ["Asolokobal", "Asotipo", "Bolakma", "Bpiri", "Bugi", "Hubikiak", "Hubikosi", "Ibele", "Itlay Hisage", "Koragi", "Kurulu", "Libarek", "Maima", "Maki", "Molagalome", "Muliama", "Musatfak", "Napua", "Pelebaga", "Piramid", "Pisugi", "Popugoba", "Siepkosi", "Silo Karno Doga", "Taelarek", "Tagime", "Tagineri", "Trikora", "Usilimo", "Wadangku", "Walaik", "Walelagama", "Wame", "Wamena", "Welesi", "Wesaput", "Wita Waya", "Wollo", "Wouma", "Yalengga"],
+		"name": "Kab. Jayawijaya"
+	}, {
+		"area": ["Arso Barat", "Arso Timur", "Kaisenar", "Mannem", "Senggi", "Skanto", "Towe", "Waris", "Web", "Yaffi"],
+		"name": "Kab. Keerom"
+	}, {
+		"area": ["Kepulauan Ambai", "Kosiwo", "Poom", "Pulau Kurudu", "Pulau Yerui", "Raimbawi", "Serui", "Teluk Ampimoi", "Windesi", "Wonawa", "Yapen Barat", "Yapen Selatan", "Yapen Timur", "Yapen Utara"],
+		"name": "Kab. Kepulauan Yapen"
+	}, {
+		"area": ["Ayumnati", "Balingga", "Balingga Barat", "Bruwa", "Buguk Gona", "Dimba", "Gamelia", "Gelok Beam", "Goa Balim", "Gollo", "Guna", "Gupura", "Karu", "Kelulome", "Kolawa", "Kuly Lanny", "Kuyawage", "Lannyna", "Makki", "Melagi", "Melagineri", "Milimbo", "Mokoni", "Muara", "Nikogwe", "Niname", "Nogi", "Pirime", "Poga", "Tiom", "Tiomneri", "Tiom Ollo", "Wano Barat", "Wereka", "Wiringgambut", "Yiginua", "Yiluk", "Yugungwi"],
+		"name": "Kab. Lanny Jaya"
+	}, {
+		"area": ["Burmeso", "Mamberamo Ilir", "Mamberamo Tengah", "Mamberamo Tengah Timur", "Mamberamo Ulu", "Rufaer", "Sawai", "Waropen Atas"],
+		"name": "Kab. Mamberamo Raya"
+	}, {
+		"area": ["Ilugwa", "Kelila", "Kobakma", "Megabilis"],
+		"name": "Kab. Mamberamo Tengah"
+	}, {
+		"area": ["Bamgi", "Citak Mitak", "Edera", "Haju", "Kaibar", "Kepi", "Minyamur", "Nambioman Bapai", "Obaa", "Passue Bawah", "Syahcame", "Ti Zain", "Venaha", "Yakomi"],
+		"name": "Kab. Mappi"
+	}, {
+		"area": ["Eligobel", "Elikobal", "Ilwayab", "Jagebob", "Kaptel", "Kimaam", "Kurik", "Malind", "Merauke", "Muting", "Naukenjerai", "Ngguti", "Okaba", "Semangga", "Sota", "Tabonji", "Tanah Miring", "Tubang", "Ulilin", "Waan"],
+		"name": "Kab. Merauke"
+	}, {
+		"area": ["Alama", "Amar", "Hoya", "Iwaka", "Jila", "Jita", "Kuala Kencana", "Kwamki Narama", "Mimika Barat", "Mimika Barat Jauh", "Mimika Barat Tengah", "Mimika Baru", "Mimika Tengah", "Mimika Timur", "Mimika Timur Jauh", "Mimika Timur Tengah", "Tembaga Pura", "Timika", "Wania"],
+		"name": "Kab. Mimika"
+	}, {
+		"area": ["Makimi", "Menou", "Moora", "Nabire", "Nabire Barat", "Napan", "Siriwo", "Sukikai", "Teluk Kimi", "Teluk Umar", "Uwapa", "Wanggar", "Wapoga", "Yaro", "Yaur"],
+		"name": "Kab. Nabire"
+	}, {
+		"area": ["Dal", "Embetpen", "Gearek", "Geselma", "Inikgal", "Iniye", "Kegayem", "Kenyam", "Kilmid", "Kora", "Koroptak", "Krepkuri", "Mam", "Mapenduma", "Mbua", "Mbua Tengah", "Mbulmu Yalma", "Mebarok", "Moba", "Mugi", "Nenggeagin", "Nirkuri", "Paro", "Pasir Putih", "Pija", "Wosak", "Wusi", "Wutpaga", "Yal", "Yenggelo", "Yigi"],
+		"name": "Kab. Nduga"
+	}, {
+		"area": ["Aweida", "Baya Biru", "Bibida", "Bogabaida", "Deiyai Miyo", "Dogomo", "Dumadama", "Ekadide", "Enarotari", "Kebo", "Muye", "Nakama", "Paniai Barat", "Paniai Timur", "Pugo Dagi", "Siriwo", "Teluk Deya", "Topiyai", "Wegee Bino", "Wegee Muka", "Yagai", "Yatamo", "Youtadi"],
+		"name": "Kab. Paniai"
+	}, {
+		"area": ["Alemsom", "Awinbon", "Batani", "Batom", "Bime", "Borme", "Eipumek", "Iwur", "Jetfa", "Kalomdol", "Kawor", "Kiwirok", "Kiwirok Timur", "Mofinop", "Murkim", "Nongme", "Ok Aom", "Okbab", "Okbape", "Okbemtau", "Okbibab", "Okhika", "Oklip", "Oksamol", "Oksebang", "Oksibil", "Oksop", "Pamek", "Pepera", "Serambakon", "Tarup", "Teiraplu", "Weime"],
+		"name": "Kab Pegunungan Bintang"
+	}, {
+		"area": ["Amungkalpia", "Beoga", "Beoga Barat", "Beoga Timur", "Bina", "Dervos", "Doufu", "Erelmakawia", "Gome", "Gome Utara", "Ilaga", "Ilaga Utara", "Kembru", "Lambewi", "Mabugi", "Mage'Abume", "Ogamanim", "Omukia", "Oneri", "Pogoma", "Sinak", "Sinak Barat", "Wangbe", "Yugumuak"],
+		"name": "Kab. Puncak"
+	}, {
+		"area": ["Dokome", "Fawi", "Gubume", "Gurage", "Ilamburawi", "Ilu", "Irimuli", "Kalome", "Kiyage", "Lumo", "Mewoluk", "Molanikime", "Muara", "Mulia", "Nioga", "Nume", "Pagaleme", "Taganombak", "Tingginambut", "Torere", "Waegi", "Wanwi", "Yambi", "Yamo", "Yamoneri"],
+		"name": "Kab. Puncak Jaya"
+	}, {
+		"area": ["Bonggo", "Bonggo Timur", "Pantai Barat", "Pantai Timur", "Pantai Timur Bagian Barat", "Sarmi", "Sarmi Selatan", "Sarmi Timur", "Tor Atas"],
+		"name": "Kab. Sarmi"
+	}, {
+		"area": ["Sorendiweri", "Supiori Barat", "Supiori Selatan", "Supiori Timur", "Supiori Utara"],
+		"name": "Kab. Supiori"
+	}, {
+		"area": ["Anawi", "Aweku", "Bewani", "Biuk", "Bogonuk", "Bokondini", "Bokoneri", "Danime", "Dow", "Dundu", "Egiam", "Geya", "Gika", "Gilubandu", "Goyage", "Gundagi", "Kai", "Kamboneri", "Kanggime", "Karubaga", "Kembu", "Kondaga", "Kuari", "Kubu", "Li Anogomma", "Nabunage", "Nelawi", "Numba", "Nunggawi", "Panaga", "Poganeri", "Tagime", "Tagineri", "Telenggeme", "Timori", "Umagi", "Wakuwo", "Wari", "Wenam", "Wina", "Wonoki", "Wugi", "Wunin", "Yuko", "Yuneri"],
+		"name": "Kab. Tolikara"
+	}, {
+		"area": ["Demba", "Inggerus", "Kirihi", "Masirei", "Oudate", "Risei Sayati", "Soyoi Mambai", "Urei Faisei", "Wapoga", "Waropen Bawah", "Wonti"],
+		"name": "Kab. Waropen"
+	}, {
+		"area": ["Anggruk", "Bomela", "Dekai", "Dirwemna", "Duram", "Endomen", "Hereapini", "Hilipuk", "Hogio", "Holuon", "Kabianggama", "Kayo", "Kona", "Koropun", "Kosarek", "Kurima", "Kwelemdua", "Kwikma", "Langda", "Lolat", "Mugi", "Musaik", "Nalca", "Ninia", "Nipsan", "Obio", "Panggema", "Pasema", "Pronggoli", "Puldama", "Samenage", "Sela", "Seredela", "Silimo", "Soba", "Sobaham", "Soloikma", "Sumo", "Sumohai", "Suntamon", "Suru Suru", "Talambo", "Tangma", "Ubahak", "Ubalihi", "Ukha", "Walma", "Werima", "Wusuma", "Yahuliambut", "Yogosem"],
+		"name": "Kab. Yahukimo"
+	}, {
+		"area": ["Apalapsili", "Benawa", "Elelim", "Welarek"],
+		"name": "Kab. Yalimo"
+	}, {
+		"area": ["Heram", "Jayapura Selatan", "Jayapura Utara", "Muara Tam"],
+		"name": "Kota Jayapura"
+	}]
+}, {
+	"name": "Papua Barat",
+	"city": [{
+		"area": ["Arguni", "Bomberay", "Fakfak", "Fakfak Barat", "Fakfak Tengah", "Fakfak Timur", "Fakfak Timur Tengah", "Furwagi", "Karas", "Kayauni", "Kokas", "Kramongmongga", "Mbahamdandara", "Pariwari", "Teluk Patipi", "Tomage", "Wartutin"],
+		"name": "Kab. Fak Fak"
+	}, {
+		"area": ["Kaimana", "Kambraw", "Teluk Arguni", "Teluk Arguni Atas", "Teluk Arguni Bawah", "Teluk Etna", "Yamor"],
+		"name": "Kab. Kaimana"
+	}, {
+		"area": ["Manokwari Barat", "Manokwari Selatan", "Manokwari Timur", "Manokwari Utara", "Masni", "Prafi", "Sidey", "Tanah Rubuh", "Warmare"],
+		"name": "Kab. Manokwari"
+	}, {
+		"area": ["Momi Waren", "Neney", "Oransbari", "Ransiki", "Tahota"],
+		"name": "Kab. Manokwari Selatan"
+	}, {
+		"area": ["Aifat Selatan", "Aifat Timur", "Aifat Timur Jauh", "Aifat Timur Selatan", "Aifat Timur Tengah", "Aifat Utara", "Aitinyo", "Aitinyo Barat", "Aitinyo Raya", "Aitinyo Tengah", "Aitinyo Utara", "Ayamaru", "Ayamaru Barat", "Ayamaru Jaya", "Ayamaru Selatan", "Ayamaru Selatan Jaya", "Ayamaru Tengah", "Ayamaru Timur", "Ayamaru Timur Selatan", "Ayamaru Utara", "Ayamaru Utara Timur", "Mare", "Mare Selatan"],
+		"name": "Kab. Maybrat"
+	}, {
+		"area": ["Anggi Gida", "Catubouw", "Didohu", "Hingk", "Membey", "Minyambouw", "Sururey", "Taige", "Testega"],
+		"name": "Kab. Pegunungan Arfak"
+	}, {
+		"area": ["Batanta Selatan", "Batanta Utara", "Kepulauan Ayau", "Kepulauan Sembilan", "Kofiau", "Kota Waisai", "Meos Mansar", "Misol Timur", "Misool", "Misool Barat", "Misool Selatan", "Salawati Barat", "Salawati Tengah", "Salawati Utara", "Supnin", "Teluk Mayalibit", "Tiplol Mayalibit", "Waigeo Barat", "Waigeo Barat Kepulauan", "Waigeo Selatan", "Waigeo Timur", "Waigeo Utara", "Waisai", "Warwabomi"],
+		"name": "Kab. Raja Ampat"
+	}, {
+		"area": ["Bagun", "Beraur", "Botain", "Buk", "Hobard", "Klabot", "Klamono", "Klasafet", "Klaso", "Klawak", "Klayili", "Konhir", "Makbon", "Malabotom", "Mariat", "Maudus", "Moisegen", "Saengkeduk", "Salawati", "Salawati Selatan", "Salawati Tengah", "Sayosa", "Sayosa Timur", "Seget", "Segun", "Sorong", "Sunook", "Wemak"],
+		"name": "Kab. Sorong"
+	}, {
+		"area": ["Inanwatan", "Kais", "Kais Darat", "Kokoda", "Kokoda Utara", "Konda", "Matemani", "Moswaren", "Saifi", "Salkma", "Sawiat", "Seremuk", "Teminabuan", "Wayer"],
+		"name": "Kab. Sorong Selatan"
+	}, {
+		"area": ["Amberbaken", "Amberbaken Barat", "Ases", "Bamusbama", "Bikar", "Fef", "Ireres", "Kasi", "Kebar", "Kebar Selatan", "Kebar Timur", "Kwesefo", "Kwoor", "Manekar", "Mawabuan", "Miyah", "Miyah Selatan", "Moraid", "Mpur", "Mubrani", "Sausapor", "Selemkai", "Senopi", "Syujak", "Tinggouw", "Tobouw", "Wilhem Roumbouts", "Yembun"],
+		"name": "Kab. Tambrauw"
+	}, {
+		"area": ["Aroba", "Babo", "Bintuni", "Biscoop", "Dataran Beimes", "Door", "Fafuwar", "Kaitaro", "Kamundan", "Kuri", "Manimeri", "Masyeta", "Mayado", "Merdey", "Moskona Barat", "Moskona Selatan", "Moskona Timur", "Moskona Utara", "Sumuri", "Tembuni", "Tomu", "Tuhiba", "Wamesa", "Weriagar"],
+		"name": "Kab. Teluk Bintuni"
+	}, {
+		"area": ["Naikere", "Nikiwar", "Rasei", "Roon", "Roswar", "Rumberpon", "Soug Jaya", "Teluk Duairi", "Wamesa", "Wasior", "Windesi", "Wondiboy"],
+		"name": "Kab. Teluk Wondama"
+	}, {
+		"area": ["Maladum Mes", "Malaimsimsa", "Mayamuk", "Sorong", "Sorong Barat", "Sorong Kepulauan", "Sorong Kota", "Sorong Manoi", "Sorong Timur", "Sorong Utara"],
+		"name": "Kota Sorong"
+	}]
+}, {
+	"name": "Riau",
+	"city": [{
+		"area": ["Bantan", "Bengkalis", "Bukit Batu", "Duri-Mandau", "Mandau", "Pinggir", "Rupat", "Rupat Utara", "Siak Kecil"],
+		"name": "Kab. Bengkalis"
+	}, {
+		"area": ["Concong", "Enok", "Gaung", "Gaung Anak Serka", "Kateman", "Kempas", "Kemuning", "Keritang", "Kuala Indragiri", "Mandah", "Pelangiran", "Pulau Burung", "Reteh", "Sungai Batang", "Tanah Merah", "Teluk Balengkong", "Tembilahan", "Tembilahan Hulu", "Tempuling"],
+		"name": "Kab. Indragiri Hilir"
+	}, {
+		"area": ["Batang Gansal", "Batang Peranap", "Kelayang", "Kuala Cenaku", "Lirik", "Lubuk Batu Jaya", "Pasir Penyu", "Peranap", "Rakit Kulim", "Rengat", "Rengat Barat", "Seberida", "Sungai Lala"],
+		"name": "Kab. Indragiri Hulu"
+	}, {
+		"area": ["Bangkinang Kota", "Gunung Sahilan", "Kampar", "Kampar Kiri", "Kampar Kiri Hilir", "Kampar Kiri Hulu", "Kampar Kiri Tengah", "Kampar Timur", "Kampar Utara", "Koto Kampar Hulu", "Kuok", "Perhentian Raja", "Rumbio Jaya", "Salo", "Siak Hulu", "Tambang", "Tapung", "Tapung Hilir", "Tapung Hulu", "XIII Koto Kampar"],
+		"name": "Kab. Kampar"
+	}, {
+		"area": ["Merbau", "Pulaumerbau", "Rangsang", "Rangsang Barat", "Rangsang Pesisir", "Selat Panjang", "Tasik Putri Puyu", "Tebing Tinggi", "Tebing Tinggi Barat", "Tebing Tinggi Timur"],
+		"name": "Kab. Kepulauan Meranti"
+	}, {
+		"area": ["Cerenti", "Gunung Toar", "Hulu Kuantan", "Inuman", "Kuantan Hilir", "Kuantan Hilir Seberang", "Kuantan Mudik", "Kuantan Tengah", "Logas Tanah Darat", "Pangean", "Pucuk Rantau", "Sentajo Raya", "Singingi", "Singingi Hilir", "Teluk Kuantan"],
+		"name": "Kab. Kuantan Singingi"
+	}, {
+		"area": ["Bandar Sei Kijang", "Bunut", "Kerumutan", "Kuala Kampar", "Langgam", "Pangkalan Kerinci", "Pangkalan Kuras", "Pangkalan Lesung", "Pelalawan", "Teluk Meranti", "Ukui"],
+		"name": "Kab. Pelalawan"
+	}, {
+		"area": ["Bagan Sinembah", "Bangko", "Bangko Pusako", "Batu Hampar", "Kubu", "Kubu Babussalam", "Pasir Limau Kapas", "Pekaitan", "Pujud", "Rantau Kopar", "Rimba Melintang", "Simpang Kanan", "Sinaboi", "Tanah Putih", "Tanah Putih Tanjung Melawan"],
+		"name": "Kab. Rokan Hilir"
+	}, {
+		"area": ["Bonai Darussalam", "Kabun", "Kepenuhan", "Kepenuhan Hulu", "Kuntodarussalam", "Pagaran Tapah Darussalam", "Pasir Pangaraian", "Pendalian IV Koto", "Rambah", "Rambah Hilir", "Rambah Samo", "Rokan IV Koto", "Tandun", "Tembusai", "Tembusai Utara", "Ujung Batu"],
+		"name": "Kab. Rokan Hulu"
+	}, {
+		"area": ["Dayun", "Kandis", "Kerinci Kanan", "Koto Gasib", "Koto Gasip", "Lubuk Dalam", "Mempura", "Minas", "Pusako", "Sabak Auh", "Siak", "Siak Indrapura", "Sungai Apit", "Sungai Mandau", "Tualang"],
+		"name": "Kab. Siak"
+	}, {
+		"area": ["Dumai", "Dumai Barat", "Dumai Selatan", "Dumai Timur", "Medang Kampai", "Sungai Sembilan"],
+		"name": "Kota Dumai"
+	}, {
+		"area": ["Lima Puluh", "Marpoyan Damai", "Payung", "Payung Sekaki", "Pekanbaru", "Rumbai", "Rumbai Pesisir", "Sail", "Senapelan", "Sukajadi", "Tampan", "Tanah Datar", "Tenayan Raya"],
+		"name": "Kota Pekanbaru"
+	}]
+}, {
+	"name": "Sulawesi Barat",
+	"city": [{
+		"area": ["Banggae", "Banggae Timur", "Majene", "Malunda", "Pamboang", "Sendana", "Tammeredo Sendana", "Tubo Sendana", "Ulumunda"],
+		"name": "Kab. Majene"
+	}, {
+		"area": ["Balla", "Bambang", "Buntumalangka", "Mamasa", "Mambi", "Mehalaan", "Messawa", "Nosu", "Pana", "Rantebulahan Timur", "Sesena Padang", "Sumarorong", "Tabang", "Tabulahan", "Tanduk Kalua", "Tawalian"],
+		"name": "Kab. Mamasa"
+	}, {
+		"area": ["Kalukku", "Kalumpang", "Kep. Bala Balakang", "Mamuju", "Papalang", "Sampaga", "Simboro dan Kepulauan", "Tapalang Barat", "Tappalang", "Tommo"],
+		"name": "Kab. Mamuju"
+	}, {
+		"area": ["Karossa", "Pangale", "Tobadak", "Topoyo"],
+		"name": "Kab. Mamuju Tengah"
+	}, {
+		"area": ["Bambalamotu", "Baras", "Bulu Taba", "Dapurang", "Duripoku", "Lariang", "Pasangkayu", "Pedongga", "Sarjo", "Sarudu", "Tikke Raya"],
+		"name": "Kab. Mamuju Utara"
+	}, {
+		"area": ["Anreapi", "Balanipa", "Binuang", "Bulo", "Campalagian", "Limboro", "Luyo", "Mapilli", "Matakali", "Matangnga", "Polewali", "Tapango", "Tinambung", "Tutar", "Wonomulyo"],
+		"name": "Kab. Polewali Mandar"
+	}]
+}, {
+	"name": "Sulawesi Selatan",
+	"city": [{
+		"area": ["Bantaeng", "Bissappu", "Eremerasa", "Gantarang Keke", "Pajukukang", "Sinoa", "Tompobulu", "Uluere"],
+		"name": "Kab. Bantaeng"
+	}, {
+		"area": ["Barru", "Mallusetasi", "Pujananting", "Soppeng Riaja", "Tanete Riaja", "Tanete Rilau"],
+		"name": "Kab. Barru"
+	}, {
+		"area": ["Amali", "Awangpone", "Barebbo", "Bengo", "Bontocani", "Cenrana", "Cina", "Dua Boccoe", "Kahu", "Kajuara", "Lamuru", "Lappariaja", "Libureng", "Mare", "Palakka", "Patimpeng", "Ponre", "Salomekko", "Sibulue", "Tanete Riattang", "Tanete Riattang Barat", "Tanete Riattang Timur", "Tellu Limpoe", "Tellu Siattinge", "Tonra", "Ulaweng", "Watampone"],
+		"name": "Kab. Bone"
+	}, {
+		"area": ["Bontotiro", "Bulukumba", "Gantorang", "Heralangelange/Herlang", "Herlang", "Hero Lange-Lange", "Kajang", "Kindang", "Riau Ale", "Ujung Bulu", "Ujung Loe"],
+		"name": "Kab. Bulukumba"
+	}, {
+		"area": ["Anggeraja", "Baraka", "Baroko", "Bungin", "Buntu Batu", "Cendana", "Curio", "Enrekang", "Enrekang Selatan", "Maiwa", "Maiwa Atas", "Malua", "Masalle"],
+		"name": "Kab. Enrekang"
+	}, {
+		"area": ["Bajeng Barat", "Barombong", "Biringbulu", "Bontolempangang", "Bontomarannu", "Bontonompo", "Bontonompo Selatan", "Bungaya", "Manuju", "Pallangga", "Parangloe", "Parigi", "Pattallassang", "Somba Opu", "Sungguminasa", "Tinggimoncong", "Tombolo Pao", "Tompobulu"],
+		"name": "Kab. Gowa"
+	}, {
+		"area": ["Bangkala", "Bangkala Barat", "Batang", "Binamu", "Bontoramba", "Jeneponto", "Kelara", "Rumbia", "Tamalatea", "Tarowang", "Turatea"],
+		"name": "Kab. Jeneponto"
+	}, {
+		"area": ["Bontoharu", "Bontomanai", "Bontomatene", "Bontosikuyu", "Buki", "Pasilambena", "Pasimarannu", "Pasimassunggu", "Pasimasunggu Timur", "Takabonerate"],
+		"name": "Kab. Kepulauan Selayar"
+	}, {
+		"area": ["Bajo Barat", "Bassesangtempe", "Basse Sangtempe Utara", "Belopa", "Belopa Utara", "Bua", "Bua Ponrang", "Kamanre", "Lamasi", "Lamasi Timur", "Larompong", "Laronpong Selatan", "Latimojong", "Poncang", "Ponrang Selatan", "Suli", "Suli Barat", "Walenrang", "Walenrang Barat", "Walenrang Timur", "Walenrang Utara"],
+		"name": "Kab. Luwu"
+	}, {
+		"area": ["Burau", "Kalaena", "Malili", "Mangkutana", "Nuha", "Tomoni", "Tomoni Timur", "Towuti", "Wasuponda", "Wotu"],
+		"name": "Kab. Luwu Timur"
+	}, {
+		"area": ["Bone-Bone", "Limbong", "Malangke", "Malangke Barat", "Mappedeceng", "Masamba", "Rampi", "Sabbang", "Seko", "Sukamaju", "Tana Lili"],
+		"name": "Kab. Luwu Utara"
+	}, {
+		"area": ["Bontoa", "Camba", "Cenrana", "Lau", "Mallawa", "Mandai", "Maros", "Maros Baru", "Maros Utara", "Marusu", "Moncongloe", "Simbang", "Tanralili", "Tompobulu", "Turikale"],
+		"name": "Kab. Maros"
+	}, {
+		"area": ["Bungoro", "Kalukuang Masalima", "Labakkang", "Liukang Kalmas", "Liukang Tangaya", "Liukang Tupabbiring", "Liukang Tupabbiring Utara", "Mandalle", "Ma'Rang", "Minasa Te'ne", "Pangkajene", "Segeri", "Tondong Talasa"],
+		"name": "Kab. Pangkajene Kepulauan"
+	}, {
+		"area": ["Cempa", "Duampanua", "Lansirang", "Lembang", "Matirro Sompe", "Mattiro Bulu", "Paleteang", "Patampanua", "Pinrang", "Suppa", "Tiroang", "Watang Sawitto"],
+		"name": "Kab. Pinrang"
+	}, {
+		"area": ["Takabonerate"],
+		"name": "Kab. Selayar"
+	}, {
+		"area": ["Duapitue", "Kulo", "Maritengngae", "Panca Lautang", "Panca Rijang", "Pitu Riase", "Pitu Riawa", "Sidenreng", "Tellulimpo E", "Watang Pulu", "Wattang Sidenreng"],
+		"name": "Kab. Sidenreng Rappang"
+	}, {
+		"area": ["Pulau Sembilan", "Sinjai", "Sinjai Barat", "Sinjai Borong", "Sinjai Selatan", "Sinjai Tengah", "Sinjai Timur", "Sinjai Utara", "Tellu Limpoe"],
+		"name": "Kab. Sinjai"
+	}, {
+		"area": ["Donri Donri", "Ganra", "Lalabata", "Lili Riaja", "Lili Rilau", "Mario Riawa", "Mario Riwawo", "Watansoppeng"],
+		"name": "Kab. Soppeng"
+	}, {
+		"area": ["Galesong Selatan", "Galesong Utara", "Kota Takalar", "Mangara Bombang", "Mappakasunggu", "Pattallassang", "Polobangkeng Selatan", "Polobangkeng Utara", "Sanrobone"],
+		"name": "Kab. Takalar"
+	}, {
+		"area": ["Bonggakaradeng", "Gandang Batu Silang", "Kurra", "Makale", "Makale Selatan", "Makale Utara", "Malimbong Balepe", "Mappak", "Masanda", "Mengkendek", "Rano", "Rantetayo", "Rembon", "Saluputti", "Sangalla", "Sangalla Selatan", "Sangalla Utara", "Simbuang"],
+		"name": "Kab. Tana Toraja"
+	}, {
+		"area": ["Balusu", "Bangkelekila", "Baruppu", "Buntao Rantebua", "Buntu Pepasan", "Dende' Piongan Napo", "Kapala Pitu", "Kesu", "Nanggala", "Rantebua", "Rantepao", "Rindingalo", "Sa'dan Balusu", "Sanggalangi", "Sesean", "Sesean Suloara", "Sopai", "Tallunglipu", "Tikala", "Tondon Nanggala"],
+		"name": "Kab. Toraja Utara"
+	}, {
+		"area": ["Bola", "Gilireng", "Keera", "Majauleng", "Maniang Pajo", "Pamanna", "Penrang", "Pitumpanua", "Sabbang Paru", "Sajoanging", "Sengkang", "Takkalalla", "Tana Sitolo", "Tempe"],
+		"name": "Kab. Wajo"
+	}, {
+		"area": ["Bontoala", "Makassar/U. Pandang", "Mamajang", "Manggala", "Mariso", "Panakkukang", "Rappocini", "Tallo", "Tamalanrea", "Tamalate", "Ujung Tanah", "Wajo"],
+		"name": "Kota Makassar"
+	}, {
+		"area": ["Mungkajang", "Palopo", "Sendana", "Telluwanua", "Wara", "Wara Barat", "Wara Selatan", "Wara Timur", "Wara Utara"],
+		"name": "Kota Palopo"
+	}, {
+		"area": ["Bacukiki Barat", "Pare - Pare", "Soreang", "Ujung"],
+		"name": "Kota Pare Pare"
+	}]
+}, {
+	"name": "Sulawesi Tengah",
+	"city": [{
+		"area": ["Balantak", "Balantak Selatan", "Balantak Utara", "Banggai", "Batui", "Batui Selatan", "Boalemo", "Bunta", "Kintom", "Lamala", "Lobu", "Luwuk", "Luwuk Selatan", "Luwuk Timur", "Luwuk Utara", "Mantoh", "Masama", "Moilong", "Nambo", "Nuhon", "Pagimana", "Simpang Raya", "Toili", "Toili Barat"],
+		"name": "Kab. Banggai"
+	}, {
+		"area": ["Buko Selatan", "Bulagi", "Bulagi Selatan", "Bulagi Utara", "Liang", "Lo Bangkurung", "Peling Tengah", "Tinangkung", "Tinangkung Selatan", "Tinangkung Utara", "Totikum", "Totikum Selatan"],
+		"name": "Kab. Banggai Kepulauan"
+	}, {
+		"area": ["Banggai Selatan", "Banggai Tengah", "Banggai Utara", "Bokan Kepulauan", "Labobo"],
+		"name": "Kab. Banggai Laut"
+	}, {
+		"area": ["Bokat", "Bukal", "Bunobogu", "Buol", "Gadung", "Karamat", "Lakea", "Lipunoto", "Momunu", "Paleleh", "Paleleh Barat", "Tiolan"],
+		"name": "Kab. Buol"
+	}, {
+		"area": ["Balaesang Tanjung", "Banawa", "Banawa Selatan", "Banawa Tengah", "Dampelas", "Labuan", "Panembani", "Rio Pakava", "Sindue", "Sindue Tobata", "Sindue Tombusabora", "Sirenja", "Sojol", "Sojol Utara", "Tanantovea"],
+		"name": "Kab. Donggala"
+	}, {
+		"area": ["Bumi Raya", "Bungku", "Bungku Barat", "Bungku Pesisir", "Bungku Selatan", "Bungku Tengah", "Bungku Timur", "Menui Kepulauan", "Wita Ponda"],
+		"name": "Kab. Morowali"
+	}, {
+		"area": ["Lembo", "Lembo Raya", "Mamosalato", "Mori Atas", "Mori Utara", "Petasia", "Petasia Barat", "Petasia Timur", "Soyo Jaya"],
+		"name": "Kab. Morowali Utara"
+	}, {
+		"area": ["Balinggi", "Bolano", "Bolano Lambunu", "Kasimbar", "Mepanga", "Moutong", "Ongka Malino", "Palasa", "Parigi", "Parigi Barat", "Parigi Selatan", "Parigi Tengah", "Parigi Utara", "Sausu", "Sidoan", "Siniu", "Taopa", "Tinombo", "Tinombo Selatan", "Tomini", "Toribulu", "Torue"],
+		"name": "Kab. Parigi Moutong"
+	}, {
+		"area": ["Lore Barat", "Lore Piore", "Lore Selatan", "Lore Tengah", "Lore Timur", "Lore Utara", "Pamona Barat", "Pamona Puselemba", "Pamona Selatan", "Pamona Tenggara", "Pamona Timur", "Pamona Utara", "Poso Kota", "Poso Kota Selatan", "Poso Kota Utara", "Poso Pesisir", "Poso Pesisir Selatan", "Poso Pesisir Utara"],
+		"name": "Kab. Poso"
+	}, {
+		"area": ["Dolo Barat", "Dolo Selatan", "Gumbasa", "Kinovaru", "Kulawi", "Kulawi Selatan", "Lindu", "Marawola", "Marawola Barat", "Nokilalaki", "Palolo", "Pipikoro", "Sigi Biromaru", "Tanambulava"],
+		"name": "Kab. Sigi"
+	}, {
+		"area": ["Ampana Tete", "Batudaka", "Ratolindo", "Talatako", "Togean", "Tojo", "Tojo Barat", "Ulu Bongka", "Una-Una", "Walea Besar", "Walea Kepulauan"],
+		"name": "Kab. Tojo Una Una"
+	}, {
+		"area": ["Basidondo", "Dako Pamean", "Dampal Selatan", "Dampal Utara", "Dondo", "Galang", "Lampasio", "Ogo Deide", "Toli - Toli", "Toli-Toli Utara"],
+		"name": "Kab. Toli Toli"
+	}, {
+		"area": ["Palu", "Palu Barat", "Palu Selatan", "Palu Timur", "Palu Utara", "Tatanga", "Tawaeli", "Ulujadi"],
+		"name": "Kota Palu"
+	}]
+}, {
+	"name": "Sulawesi Tenggara",
+	"city": [{
+		"area": ["Kabaena", "Kabaena Barat", "Kabaena Selatan", "Kabaena Tengah", "Kabaena Timur", "Kabaena Utara", "Kepulauan Masaloka Raya", "Lentarai Jaya S. / Lantari Jaya", "Mata Oleo", "Mata Usu", "Poleang", "Poleang Barat", "Poleang Selatan", "Poleang Tengah", "Poleang Tenggara", "Poleang Timur", "Poleang Utara", "Rarowatu", "Rarowatu Utara", "Rumbia", "Rumbia Tengah", "Tontonunu"],
+		"name": "Kab. Bombana"
+	}, {
+		"area": ["Kapontori", "Lasalimu", "Lasalimu Selatan", "Pasar Wajo", "Siotapina", "Wabula", "Wolowa"],
+		"name": "Kab. Buton"
+	}, {
+		"area": ["Batu Atas", "Kadatua", "Lapandewa", "Sampolawa", "Siompu", "Siompu Barat"],
+		"name": "Kab. Buton Selatan"
+	}, {
+		"area": ["Lakudo", "Mawasangka", "Mawasangka Tengah", "Mawasangka Timur", "Sangia Wambulu", "Talaga Raya"],
+		"name": "Kab. Buton Tengah"
+	}, {
+		"area": ["Kambowa", "Kulisusu", "Kulisusu Barat", "Kulisusu Utara", "Wakorumba Utara"],
+		"name": "Kab. Buton Utara"
+	}, {
+		"area": ["Iwoimendaa", "Kolaka", "Lambadia", "Latambaga", "Polinggona", "Pomalaa", "Samaturu", "Tanggetada", "Toari", "Watubangga", "Wolo", "Wundulako"],
+		"name": "Kab. Kolaka"
+	}, {
+		"area": ["Dangia", "Ladongi", "Lalolae", "Loea", "Mowewe", "Poli Polia", "Tinondo", "Tirawuta", "Ueesi", "Uluiwoi"],
+		"name": "Kab. Kolaka Timur"
+	}, {
+		"area": ["Katoi", "Kodeoha", "Lambai", "Lasusua", "Ngapa", "Pakue", "Pakue Tengah", "Pakue Utara", "Porehu", "Ranteangin", "Tiwu", "Tolala", "Watunohu", "Wawo"],
+		"name": "Kab. Kolaka Utara"
+	}, {
+		"area": ["Amonggedo", "Anggaberi", "Asinua", "Besulutu", "Bondoala", "Bondoala Sampara", "Kapoiala", "Konawe", "Lalonggasumeeto", "Lambuya", "Latoma", "Meluhu", "Onembute", "Pondidaha", "Puriala", "Routa", "Sampara", "Soropia", "Tongauna", "Uepai", "Unaaha", "Wawonii", "Waworete", "Wawotobi", "Wonggeduku"],
+		"name": "Kab. Konawe"
+	}, {
+		"area": ["Wawonii Selatan", "Wawonii Tengah", "Wawonii Tenggara", "Wawonii Timur", "Wawonii Timur Laut", "Wawonii Utara"],
+		"name": "Kab. Konawe Kepulauan"
+	}, {
+		"area": ["Angata", "Baito", "Basala", "Benua", "Buke", "Kolono", "Konda", "Laeya", "Lainea", "Lalembuu", "Landono", "Laonti", "Moramo", "Moramo Utara", "Mowila", "Palangga", "Palangga Selatan", "Ranomeeto", "Ranomeeto Barat", "Tinanggea", "Wolasi"],
+		"name": "Kab. Konawe Selatan"
+	}, {
+		"area": ["Asera", "Landawe", "Langgikima", "Lasolo", "Lasolo Kepulauan", "Lembo", "Molawe", "Motui", "Oheo", "Sawa", "Wawolesea", "Wiwirano"],
+		"name": "Kab. Konawe Utara"
+	}, {
+		"area": ["Batukara", "Bone", "Duruka", "Duruka Bone", "Kabangka", "Kabawo", "Katobu", "Kontu Kowuna", "Kontunaga", "Lasalepa", "Lohia", "Maligano", "Marobo", "Napabalano", "Parigi", "Pasi Kolaga", "Pasir Putih", "Raha", "Tikep", "Tongkuno", "Tongkuno Selatan", "Towea", "Wakorumba", "Wakorumba Selatan", "Watopute"],
+		"name": "Kab. Muna"
+	}, {
+		"area": ["Kusambi", "Lawa", "Maginti", "Napano Kusambi", "Sawerigadi", "Tiworo Kepulauan", "Tiworo Selatan", "Tiworo Tengah", "Tiworo Utara", "Wadaga"],
+		"name": "Kab. Muna Barat"
+	}, {
+		"area": ["Kaledupa", "Kaledupa Selatan", "Togo Binongko", "Tomia", "Tomia Timur", "Wangi-Wangi", "Wangi-Wangi Selatan"],
+		"name": "Kab. Wakatobi"
+	}, {
+		"area": ["Bau - Bau", "Betoambari", "Bungi", "Kokalukuna", "Lea-Lea", "Murhum", "Sorawolio", "Wolio"],
+		"name": "Kota Bau Bau"
+	}, {
+		"area": ["Barat", "Baruga", "Kadia", "Kambu", "Kendar", "Kendari", "Kendari Barat", "Mandonga", "Poasia", "Puuwatu", "Wua Wua"],
+		"name": "Kota Kendari"
+	}]
+}, {
+	"name": "Sulawesi Utara",
+	"city": [{
+		"area": ["Bilalang", "Bolaang", "Bolaang Timur", "Bolang Itang", "Bolang Uki", "Dumoga", "Dumoga Barat", "Dumoga Tengah", "Dumoga Tenggara", "Dumoga Timur", "Dumoga Utara", "Lolak", "Lolayan", "Passi", "Passi Barat", "Passi Timur", "Poigar", "Sangtombolang"],
+		"name": "Kab. Bolaang Mongondow"
+	}, {
+		"area": ["Pinolosian", "Pinolosian Tengah", "Pinolosian Timur", "Posigadan"],
+		"name": "Kab. Bolaang Mongondow Selatan"
+	}, {
+		"area": ["Modayag", "Modayag Barat", "Nuangan", "Tutuyan"],
+		"name": "Kab. Bolaang Mongondow Timur"
+	}, {
+		"area": ["Bolaang Itang Barat", "Bolaang Itang Timur", "Boroko", "Kaidipang", "Pinogaluman", "Sangkub"],
+		"name": "Kab. Bolaang Mongondow Utara"
+	}, {
+		"area": ["Siau Barat", "Siau Barat Selatan", "Siau Barat Utara", "Siau Tengah", "Siau Timur", "Siau Timur Selatan", "Tagulandang", "Tagulandang Selatan", "Tagulandang Utara"],
+		"name": "Kab. Kep. Siau Tagulandang Biaro"
+	}, {
+		"area": ["Kepulauan Marore", "Manganitu", "Manganitu Selatan", "Nusa Tabukan", "Tabukan Selatan", "Tabukan Selatan Tengah", "Tabukan Selatan Tenggara", "Tabukan Tengah", "Tabukan Utara", "Tahuna", "Tahuna Barat", "Tahuna Timur", "Tamako", "Tatoareng"],
+		"name": "Kab. Kepulauan Sangihe"
+	}, {
+		"area": ["Beo Selatan", "Beo Utara", "Damao", "Essang", "Essang Selatan", "Gemeh", "Kabaruan", "Kalongan", "Lirung", "Melonguane", "Melonguane Timur", "Miangas", "Moronge", "Nanusa", "Pulutan", "Rainis", "Salibabu", "Tampan Amma"],
+		"name": "Kab. Kepulauan Talaud"
+	}, {
+		"area": ["Kakas", "Kakas Barat", "Kawangkoan", "Kawangkoan Barat", "Kawangkoan Utara", "Kombi", "Langowan Barat", "Langowan Selatan", "Langowan Timur", "Langowan Utara", "Lembean Timur", "Mandolang", "Pineleng", "Remboken", "Sonder", "Tombariri", "Tombariri Timur", "Tombulu", "Tompaso", "Tompaso Barat", "Tondano", "Tondano Barat", "Tondano Selatan", "Tondano Timur", "Tondano Utara"],
+		"name": "Kab. Minahasa"
+	}, {
+		"area": ["Amurang Barat", "Amurang Timur", "Kumelembuai", "Maesaan", "Modoinding", "Motoling", "Motoling Barat", "Motoling Timur", "Ranoyapo", "Sinon Sayang", "Suluun Tareran", "Tareran", "Tatapaan", "Tenga", "Tompaso Baru", "Tumpaan"],
+		"name": "Kab. Minahasa Selatan"
+	}, {
+		"area": ["Pasan", "Pusomaen", "Ratahan", "Ratahan Timur", "Ratatotok", "Silian Raya", "Tombatu", "Tombatu Timur", "Tombatu Utara", "Touluaan", "Touluaan Selatan"],
+		"name": "Kab. Minahasa Tenggara"
+	}, {
+		"area": ["Dimembe", "Kalawat", "Kauditan", "Kema", "Likupang Barat", "Likupang Selatan", "Likupang Timur", "Talawaan", "Wori"],
+		"name": "Kab. Minahasa Utara"
+	}, {
+		"area": ["Bitung", "Girian", "Lembeh Selatan", "Lembeh Utara", "Madidir", "Maesa", "Matuari", "Ranowulu"],
+		"name": "Kota Bitung"
+	}, {
+		"area": ["Kotamobagu Barat", "Kotamobagu Selatan", "Kotamobagu Timur", "Kotamobagu Utara"],
+		"name": "Kota Kotamobagu"
+	}, {
+		"area": ["Bunaken Kepulauan", "Malalayang", "Manado", "Mapanget", "Paal Dua", "Sario", "Singkil", "Tikala", "Tuminting", "Wanea", "Wenang"],
+		"name": "Kota Manado"
+	}, {
+		"area": ["Tomohon Barat", "Tomohon Selatan", "Tomohon Tengah", "Tomohon Timur", "Tomohon Utara"],
+		"name": "Kota Tomohon"
+	}]
+}, {
+	"name": "Sumatera Barat",
+	"city": [{
+		"area": ["Ampek Angkek Canduang", "Ampek Nagari", "Banuhampu", "Baso", "Candung", "IV Koto", "Kamang Magek", "Lubuk Basung", "Malakak", "Matur", "Palembayan", "Palupuh", "Sungai Puar", "Tanjung Mutiara", "Tanjung Raya", "Tilatang Kamang"],
+		"name": "Kab. Agam"
+	}, {
+		"area": ["Koto Baru", "Koto Besar", "Koto Salak", "Padang Laweh", "Pulau Punjung", "Sembilan Koto", "Sitiung", "Sungai Rumbai", "Timpeh", "Tiumang"],
+		"name": "Kab. Dharmasraya"
+	}, {
+		"area": ["Pagai Utara", "Siberut Barat", "Siberut Barat Daya", "Siberut Selatan", "Siberut Tengah", "Siberut Utara", "Sikakap", "Sipora", "Sipora Selatan", "Sipora Utara", "Tuapejat"],
+		"name": "Kab. Kepulauan Mentawai"
+	}, {
+		"area": ["Bukit Barisan", "Guguk", "Gunuang Omeh", "Harau", "Kapur IX", "Lareh Sago Halaban", "Luhak", "Mungka", "Pangkalan Koto Baru", "Pariaman", "Payakumbuh", "Sarilamak", "Situjuah Limo Nagari", "Suliki", "Suliki Gunung Mas"],
+		"name": "Kab. Lima Puluh Kota"
+	}, {
+		"area": ["2 X 11 Kayu Tanam", "Batang Anai", "Batang Gasan", "Enam Lingkung", "IV Koto Aur Malintang", "Lubuk Alung", "Nan Sabaris", "Padang Sago", "Patamuan", "Sintuk Toboh Gadang", "Sungai Geringging", "Sungai Limau", "Ulakan Tapakis", "VII Koto Sungai Sarik", "V Koto Kampung Dalam", "V Koto Timur"],
+		"name": "Kab. Padang Pariaman"
+	}, {
+		"area": ["Duo Koto", "Lubuk Sikaping", "Mapat Tunggul", "Mapat Tunggul Selatan", "Padang Gelugur", "Panti", "Rao", "Rao Selatan", "Rao Utara", "Simpang Alahan Mati", "Tigo Nagari"],
+		"name": "Kab. Pasaman"
+	}, {
+		"area": ["Kinali", "Koto Balingka", "Lembah Melintang", "Luhak Nan Duo", "Pasaman", "Ranah Batahan", "Sasak Ranah Pesisir", "Sungai Aur", "Sungai Beremas", "Talamau"],
+		"name": "Kab. Pasaman Barat"
+	}, {
+		"area": ["Basa Ampek Balai Tapan", "Batang Kapas", "Bayang", "IV Jurai", "IV Nagari Bayang Utara", "Koto XI Tarusan", "Lengayang", "Linggo Sari Baganti", "Lunang", "Pancung Soal", "Ranah Ampek Hulu", "Ranah Pesisir", "Silaut", "Sutera"],
+		"name": "Kab. Pesisir Selatan"
+	}, {
+		"area": ["Kamang Baru", "Koto VII", "Kupitan", "Lubuk Tarok", "Sijunjung", "Sumpur Kudus", "Tanjung Gadang"],
+		"name": "Kab. Sijunjung"
+	}, {
+		"area": ["Danau Kembar", "Gunung Talang", "Hiliran Gumanti", "IX Koto Sungai Lasi", "Junjung Sirih", "Kubung", "Lembah Gumanti", "Lembang Jaya", "Pantai Cermin", "Payung Sekaki", "Tigo Lurah", "X Koto Diatas", "X Koto Singkarak"],
+		"name": "Kab. Solok"
+	}, {
+		"area": ["Padang Aro", "Pauh Duo", "Sangir", "Sangir Balai Janggo", "Sangir Batanghari", "Sangir Jujuan", "Sungai Pagu"],
+		"name": "Kab. Solok Selatan"
+	}, {
+		"area": ["Batipuh Selatan", "Batu Sangkar", "Lima Kaum", "Lintau Buo", "Lintau Buo Utara", "Padang Ganting", "Pariangan", "Rambatan", "Salimpaung", "Sungai Tarab", "Sungayang", "Tanjung Baru", "Tanjung Emas", "X Koto"],
+		"name": "Kab. Tanah Datar"
+	}, {
+		"area": ["Bukit Tinggi", "Guguk Panjang", "Mandiangin Koto Selayan"],
+		"name": "Kota Bukittinggi"
+	}, {
+		"area": ["Koto Tangah", "Kuranji", "Lubuk Begalung", "Lubuk Kilangan", "Nanggalo", "Padang", "Padang Barat", "Padang Selatan", "Padang Timur", "Padang Utara", "Pauh"],
+		"name": "Kota Padang"
+	}, {
+		"area": ["Padang Panjang Barat", "Padang Panjang Timur"],
+		"name": "Kota Padang Panjang"
+	}, {
+		"area": ["Pariaman Tengah", "Pariaman Timur", "Pariaman Utara"],
+		"name": "Kota Pariaman"
+	}, {
+		"area": ["Payakumbuh", "Payakumbuh Barat", "Payakumbuh Selatan", "Payakumbuh Timur", "Payakumbuh Utara"],
+		"name": "Kota Payakumbuh"
+	}, {
+		"area": ["Lembah Segar", "Sawahlunto", "Silungkang", "Talawi"],
+		"name": "Kota Sawahlunto"
+	}, {
+		"area": ["Solok", "Tanjung Harapan"],
+		"name": "Kota Solok"
+	}]
+}, {
+	"name": "Sumatera Selatan",
+	"city": [{
+		"area": ["Air Kumbang", "Air Salek", "Banyuasin I", "Banyuasin II", "Banyuasin III", "Betung", "Makarti Jaya", "Muara Padang", "Muara Sugihan", "Muara Telang", "Pangkalan Balai", "Pulau Rimau", "Rambutan", "Rantau Bayur", "Sembawa", "Suak Tapeh", "Sumber Marga Telang", "Talang Kelapa", "Tanjung Lago", "Tungkal Ilir"],
+		"name": "Kab. Banyuasin"
+	}, {
+		"area": ["Muara Pinang", "Pasemah Air Keruh", "Pendopo", "Pendopo Barat", "Saling", "Sikap Dalam", "Talang Padang", "Tebing Tinggi", "Ulu Musi"],
+		"name": "Kab. Empat Lawang"
+	}, {
+		"area": ["Gumay Ulu", "Jarai", "Kikim Barat", "Kikim Selatan", "Kikim Tengah", "Kikim Timur", "Kota Agung", "Lahat", "Merapi", "Merapi Barat", "Merapi Selatan", "Merapi Timur", "Muarapayang", "Mulak Ulu", "Pagar Gunung", "Pajar Bulan", "Pseksu", "Pulau Pinang", "Sukamerindu", "Tanjung Sakti", "Tanjung Sakti Pumi", "Tanjung Sakti Pumu", "Tanjung Tebat"],
+		"name": "Kab. Lahat"
+	}, {
+		"area": ["Belimbing", "Benakat", "Gelumbang", "Gunung Megang", "Kelekar", "Lawang Kidul", "Lembak", "Lubai", "Lubai Ulu", "Muara Belikan", "Muara Enim", "Rembang", "Rembang Dangku", "Semende Darat Laut", "Semende Darat Tengah", "Semende Darat Ulu", "Sungai Rotan", "Tanjung Agung", "Ujan Mas"],
+		"name": "Kab. Muara Enim"
+	}, {
+		"area": ["Babat Toman", "Batang Harileko", "Bayung Lencir", "Keluang", "Lais", "Lalan", "Lawang Wetan", "Plakat Tinggi", "ramba (desa)", "Sanga Desa", "Sekayu", "Sungai Keruh", "Sungai Lilin", "Tungkal Jaya"],
+		"name": "Kab. Musi Banyuasin"
+	}, {
+		"area": ["BTS Ulu", "Jayaloka", "Megang Sakti", "Muara Beliti", "Muara Kelingi", "Muara Lakitan", "Purwodadi", "Selangit", "Sukakarya", "Sumber Harta", "Tiang Pumpung Kepungut", "Tuah Negeri", "Tugumulyo"],
+		"name": "Kab. Musi Rawas"
+	}, {
+		"area": ["Karang Jaya", "Nibung", "Rawas Ilir", "Rawas Ulu", "Rupit", "Ulu Rawas"],
+		"name": "Kab. Musi Rawas Utara"
+	}, {
+		"area": ["Indralaya Selatan", "Indralaya Utara", "Kandis", "Lubuk Keliat", "Muara Kuang", "Payaraman", "Pemulutan", "Pemulutan Barat", "Pemulutan Selatan", "Rambang Kuang", "Rantau Alai", "Rantau Panjang", "Sungai Pinang", "Tanjung Batu", "Tanjung Raja"],
+		"name": "Kab. Ogan Ilir"
+	}, {
+		"area": ["Cengal", "Jejawi", "Kota Kayu Agung", "Lempuing", "Lempuing Jaya", "Mesuji", "Mesuji Makmur", "Mesuji Raya", "Pampangan", "Pangkalan Lampam", "Pedamaran", "Pedamaran Timur", "Sirah Pulau Padang", "Sungai Menang", "Tanjung Lubuk", "Teluk Gelam", "Tulung Selapan"],
+		"name": "Kab. Ogan Komering Ilir"
+	}, {
+		"area": ["Baturaja Barat", "Baturaja Timur", "Lengkiti", "Lubuk Batang", "Lubuk Raja", "Muara Jaya", "Pengandonan", "Peninjauan", "Semidang Aji", "Sinar Peninjauan", "Sosoh Buay Rayap", "Ulu Ogan"],
+		"name": "Kab. Ogan Komering Ulu"
+	}, {
+		"area": ["Buana Pemaca", "Buay Pemaca", "Buay Pematang Ribu Ranau Tengah", "Buay Rawan", "Buay Runjung", "Buay Sandang Aji", "Kisam Ilir", "Kisam Tinggi", "Mekakau Ilir", "Muaradua", "Muaradua Kisam", "Pulau Beringin", "Runjung Agung", "Simpang", "Sindang Danau", "Sungai Are", "Tiga Dihaji", "Warkuk Ranau Selatan"],
+		"name": "Kab. Ogan Komering Ulu Selatan"
+	}, {
+		"area": ["Belitang II", "Belitang III", "Belitang Jaya", "Belitang Madang Raya", "Belitang Mulya", "Buay Madang", "Buay Madang Timur", "Buay Pemuka Bangsa Raja", "Buay Pemuka Peliung", "Bunga Mayang", "Cempaka", "Jayapura", "Madang Suku I", "Madang Suku II", "Madang Suku III", "Martapura", "Semendawai Barat", "Semendawai Timur", "Semendawa Suku III"],
+		"name": "Kab. Ogan Komering Ulu Timur"
+	}, {
+		"area": ["Penukal Abab", "Penukal Utara", "Talang Ubi", "Tanah Abang"],
+		"name": "Kab. Penukal Abab Lematang Ilir"
+	}, {
+		"area": ["Lubuklinggau Barat I", "Lubuklinggau Barat II", "Lubuklinggau Selatan I", "Lubuklinggau Selatan II", "Lubuklinggau Timur I", "Lubuklinggau Timur II", "Lubuklinggau Utara I", "Lubuklinggau Utara II"],
+		"name": "Kota Lubuk Linggau"
+	}, {
+		"area": ["Dempo Tengah", "Dempo Utara", "Pagar Alam", "Pagar Alam Selatan", "Pagar Alam Utara"],
+		"name": "Kota Pagar Alam"
+	}, {
+		"area": ["Bukit Kecil", "Gandus", "Ilir Barat I", "Ilir Barat II", "Ilir Timur I", "Ilir Timur II", "Kalidoni", "Kemuning", "Kertapati", "Palembang", "Plaju", "Sako", "Seberang Ulu I", "Seberang Ulu II", "Sematang Borang", "Sukarame"],
+		"name": "Kota Palembang"
+	}, {
+		"area": ["Prabumulih", "Prabumulih Barat", "Prabumulih Selatan", "Prabumulih Timur", "Prabumulih Utara", "Rambang Kapak Tengah"],
+		"name": "Kota Prabumulih"
+	}]
+}, {
+	"name": "Sumatera Utara",
+	"city": [{
+		"area": ["Aek Kuasan", "Aek Ledong", "Aek Songsongan", "Air Batu", "Air Joman", "Bandar Pasir Mandoge", "Bandar Pulau", "Buntu Pane", "Kisaran", "Kota Kisaran Barat", "Kota Kisaran Timur", "Meranti", "Pulau Rakyat", "Pulo Bandring", "Rahuning", "Rawang Panca Arga", "Sei Dadap", "Sei Kepayang", "Sei Kepayang Barat", "Sei Kepayang Timur", "Setia Janji", "Silau Laut", "Simpang Empat", "Tanjung Balai", "Teluk Dalam", "Tinggi Raja"],
+		"name": "Kab. Asahan"
+	}, {
+		"area": ["Limapuluh", "Medang Deras", "Sei Balai", "Sei Suka", "Talawi", "Tanjung Tiram"],
+		"name": "Kab. Batu Bara"
+	}, {
+		"area": ["Gunung Sitember", "Lae Parira", "Parbuluan", "Pegagan Hilir", "Sidikalang", "Siempat Nempu", "Siempat Nempu Hilir", "Siempat Nempu Hulu", "Silahi Sabungan", "Silima Pungga-Pungga", "Sitinjo", "Sumbul", "Tanah Pinem", "Tiga Lingga"],
+		"name": "Kab. Dairi"
+	}, {
+		"area": ["Batang Kuis", "Beringin", "Biru-Biru", "Deli Serdang", "Deli Tua", "Galang", "Gunung Meriah", "Hamparan Perak", "Kutalimbaru", "Labuhan Deli", "Lubuk Pakam", "Namo Rambe", "Pagar Marbau", "Pancur Batu", "Pantai Labu", "Percut Sei Tuan", "Petumbak", "Sibolangit", "Sinembah Tanjungmuda Hilir", "Sinembah Tanjungmuda Hulu", "Sunggal", "Tanjung Morawa"],
+		"name": "Kab. Deli Serdang"
+	}, {
+		"area": ["Dolok Sanggul", "Lintong Nihuta", "Onan Ganjang", "Pakkat", "Paranginan", "Parlilitan", "Pollung", "Sijama Polang", "Tarabintang"],
+		"name": "Kab. Humbang Hasundutan"
+	}, {
+		"area": ["Berastagi", "Dolat Rayat", "Juhar", "Kabanjahe", "Kuta Buluh", "Laubaleng", "Mardinding", "Merdeka", "Merek", "Munte", "Naman Teran", "Payung", "Simpang Empat", "Tiga Binanga", "Tiganderket", "Tiga Panah"],
+		"name": "Kab. Karo"
+	}, {
+		"area": ["Bilah Hilir", "Bilah Hulu", "Panai Hilir", "Panai Hulu", "Panai Tengah", "Pangkatan", "Rantau Prapat", "Rantau Selatan", "Rantau Utara", "Sungai Kanan"],
+		"name": "Kab. Labuhanbatu"
+	}, {
+		"area": ["Kota Pinang", "Silangkitang", "Sungai Kanan", "Torgamba"],
+		"name": "Kab. Labuhanbatu Selatan"
+	}, {
+		"area": ["Aek Natas", "Kualuh Hilir", "Kualuh Hulu", "Kualuh Leidong", "Kualuh Selatan", "Marbau", "Na IX-X"],
+		"name": "Kab. Labuhanbatu Utara"
+	}, {
+		"area": ["Batang Serangan", "Besitang", "Binjai", "Bohorok", "Brandan Barat", "Gebang", "Hinai", "Kuala", "Kutambaru", "Padang Tualang", "Pangkalan Susu", "Pematang Jaya", "Salapian", "Sawit Seberang", "Secanggang", "Sei Bingai", "Sei Lepan", "Selesai", "Sirapit", "Stabat", "Tanjung Pura", "Wampu"],
+		"name": "Kab. Langkat"
+	}, {
+		"area": ["Batang Natal", "Bukit Malintang", "Huta Bargot", "Kotanopan", "Lembah Sorik Merapi", "Lingga Bayu", "Muara Batang Gadis", "Muara Sipongi", "Naga Juang", "Natal", "Pakantan", "Panyabungan", "Panyabungan Barat", "Panyabungan Selatan", "Panyabungan Timur", "Panyabungan Utara", "Puncak Sorik Marapi", "Ranto Baek", "Siabu", "Sinunukan", "Tambangan", "Ulu Pungkut"],
+		"name": "Kab. Mandailing Natal"
+	}, {
+		"area": ["Botomuzoi", "Gido", "Hiliduho", "Hili Serangkai", "Idano Gawo", "Ma'u", "Sogae Adu", "Somolo-Molo", "Ulugawo"],
+		"name": "Kab. Nias"
+	}, {
+		"area": ["Lolofitu Moi", "Mandrehe", "Mandrehe Barat", "Mandrehe Utara", "Moro'o", "Sirombu", "Ulu Moro'o"],
+		"name": "Kab. Nias Barat"
+	}, {
+		"area": ["Aramo", "Boronadu", "Fanayama", "Gomo", "Hibala", "Hilimegai", "Hilisalawa'ahe", "Huruna", "Lahusa", "Lalowau", "Lolomatua", "Maniamolo", "Mazino", "Mazo", "Onohazumba", "O'o'u", "Pulau-Pulau Batu", "Pulau-Pulau Batu Barat", "Pulau-Pulau Batu Timur", "Pulau-Pulau Batu Utara", "Sidua'ori", "Simuk", "Somambawa", "Susua", "Tanah Masa", "Teluk Dalam", "Toma", "Ulunoyo", "Ulususua", "Umbunasi"],
+		"name": "Kab. Nias Selatan"
+	}, {
+		"area": ["Alasa", "Alasa Talumuzoi", "Lahewa", "Lahewa Timur", "Lotu", "Namohalu Esiwa", "Sawo", "Sitolu Ori", "Tugala Oyo", "Tuhemberua"],
+		"name": "Kab. Nias Utara"
+	}, {
+		"area": ["Barumun", "Barumun Selatan", "Barumun Tengah", "Batang Lubu Sutam", "Huristak", "Huta Raja Tinggi", "Lubuk Barumun", "Sibuhuan", "Sihapas Barumun", "Sosa", "Sosopan", "Ulu Barumun"],
+		"name": "Kab. Padang Lawas"
+	}, {
+		"area": ["Dolok", "Dolok Sigompulon", "Gunung Tua", "Halongonan", "Hulu Sihapas", "Padang Bolak", "Padang Bolak Julu", "Portibi", "Simangambat"],
+		"name": "Kab. Padang Lawas Utara"
+	}, {
+		"area": ["Pagindar", "Pergetteng-getteng Sengkut", "Salak", "Siempat Rube", "Sitellu Tai Urang Jehe", "Sitellu Tai Urang Julu", "Tinada"],
+		"name": "Kab. Pakpak Bharat"
+	}, {
+		"area": ["Nainggolan", "Onan Runggu", "Palipi", "Pangururan", "Ronggur Nihuta", "Sianjur Mula Mula", "Simanindo", "Sitiotio"],
+		"name": "Kab. Samosir"
+	}, {
+		"area": ["Bintang Bayu", "Dolok Masihul", "Dolok Merawan", "Kotarih", "Pantai Cermin", "Pegajahan", "Perbaungan", "Sei Bamban", "Sei Rampah", "Serba Jadi", "Silinda", "Sipispis", "Tanjung Beringin", "Tebing Syahbandar", "Tebingtinggi", "Teluk Mengkudu"],
+		"name": "Kab. Serdang Bedagai"
+	}, {
+		"area": ["Bandar Huluan", "Bandar Masilam", "Bosar Maligas", "Dolok Batunanggar", "Dolok Panribuan", "Dolok Pardamean", "Dolok Silau", "Girsang Sipangan Bolon", "Gunung Malela", "Gunung Maligas", "Haranggaol Horison", "Hatonduhan", "Hutabayu Raja", "Jawa Maraja Bah Jambi", "Jorlang Hataran", "Panei", "Panombeian Pane", "Pematang Bandar", "Pematang Raya", "Pematang Sidamanik", "Pematang Silima Huta", "Purba", "Raya", "Raya Kahean", "Siantar", "Sidamanik", "Silau Kahean", "Silimakuta", "Tanah Jawa", "Tapian Dolok", "Ujung Padang"],
+		"name": "Kab. Simalungun"
+	}, {
+		"area": ["Angkola Barat", "Angkola Sangkunur", "Angkola Selatan", "Arse", "Batang Angkola", "Batang Toru", "Marancar", "Muara Batang Toru", "Padang Sidempuan Timur", "Saipar Dolok Hole", "Sayur Matinggi", "Sipirok", "Tano Tombangan Angkola"],
+		"name": "Kab. Tapanuli Selatan"
+	}, {
+		"area": ["Badiri", "Barus", "Barus Utara", "Kolang", "Lumut", "Manduamas", "Pandan", "Pasaribu Tobing", "Pinangsori", "Sarudik", "Sibabangun", "Sibolga", "Sirandorung", "Sitahuis", "Sorkam", "Sorkam Barat", "Sosor Gadong", "Suka Bangun", "Tapian Nauli", "Tukka"],
+		"name": "Kab. Tapanuli Tengah"
+	}, {
+		"area": ["Garoga", "Muara", "Pagaran", "Pahae Jae", "Pahae Julu", "Pangaribuan", "Parmonangan", "Purbatua", "Siatas Barita", "Siborong-Borong", "Simangumban", "Sipahutar", "Sipoholon", "Tarutung"],
+		"name": "Kab. Tapanuli Utara"
+	}, {
+		"area": ["Balige", "Bonatua Lunasi", "Bor Bor", "Habinsaran", "Lagu Boti", "Lumban Julu", "Nassau", "Parmaksian", "Pintu Pohan Meranti", "Porsea", "Siantar Narumonda", "Sigumpar", "Silaen", "Tampahan", "Uluan"],
+		"name": "Kab. Toba Samosir"
+	}, {
+		"area": ["Binjai Barat", "Binjai Kota", "Binjai Selatan", "Binjai Timur", "Binjai Utara"],
+		"name": "Kota Binjai"
+	}, {
+		"area": ["Gunungsitoli Alo'oa", "Gunungsitoli Barat", "Gunungsitoli Idanoi", "Gunungsitoli Selatan", "Gunungsitoli Utara"],
+		"name": "Kota Gunungsitoli"
+	}, {
+		"area": ["Medan Amplas", "Medan Area", "Medan Barat", "Medan Baru", "Medan Belawan", "Medan Deli", "Medan Denai", "Medan Helvetia", "Medan Johor", "Medan Kota", "Medan Labuhan", "Medan Maimun", "Medan Marelan", "Medan Perjuangan", "Medan Petisah", "Medan Polonia", "Medan Selayang", "Medan Sunggal", "Medan Tembung", "Medan Timur", "Medan Tuntungan"],
+		"name": "Kota Medan"
+	}, {
+		"area": ["Padangsidimpuan Angkola Julu", "Padangsidimpuan Batunadua", "Padangsidimpuan Hutaimbaru", "Padangsidimpuan Selatan", "Padangsidimpuan Tenggara", "Padangsidimpuan Utara"],
+		"name": "Kota Padangsidimpuan"
+	}, {
+		"area": ["Siantar Barat", "Siantar Marihat", "Siantar Marimbun", "Siantar Martoba", "Siantar Selatan", "Siantar Sitalasari", "Siantar Timur", "Siantar Utara"],
+		"name": "Kota Pematang Siantar"
+	}, {
+		"area": ["Sibolga Sambas", "Sibolga Selatan", "Sibolga Utara"],
+		"name": "Kota Sibolga"
+	}, {
+		"area": ["Datuk Bandar Timur", "Sei Tualang Raso", "Tanjung Balai", "Tanjung Balai Selatan", "Tanjung Balai Utara", "Teluk Nibung"],
+		"name": "Kota Tanjung Balai"
+	}, {
+		"area": ["Padang Hilir", "Padang Hulu", "Rambutan", "Tebing Tinggi Kota"],
+		"name": "Kota Tebing Tinggi"
+	}]
+}]
